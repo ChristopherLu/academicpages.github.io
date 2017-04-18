@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a second year Ph.D student in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and Prof [Hongkai Wen](http://www2.warwick.ac.uk/fac/sci/dcs/people/hongkai_wen). My study is kindly funded by Google [Deepmind](https://deepmind.com/).
+
+I obtained my M.Eng. degree from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) in 2015, advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) in 2013 with a B.E. in Computer Engineering. 
 
 A data-driven personal website
 ======
