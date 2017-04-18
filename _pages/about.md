@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and Prof [Hongkai Wen](http://www2.warwick.ac.uk/fac/sci/dcs/people/hongkai_wen). My study is kindly funded by Google [Deepmind](https://deepmind.com/).
+I am a second year Ph.D student in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and Prof. [Hongkai Wen](http://www2.warwick.ac.uk/fac/sci/dcs/people/hongkai_wen). My study is kindly funded by Google [Deepmind](https://deepmind.com/).
 
-I obtained my M.Eng. degree from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) in 2015, advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) in 2013 with a B.E. in Computer Engineering. 
+I obtained my M.Eng. degree from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx)(NTU) in 2015, advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) in 2013 with a B.E. in Computer Engineering. 
 
 A data-driven personal website
 ======
