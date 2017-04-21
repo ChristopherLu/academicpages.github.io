@@ -14,9 +14,10 @@ I obtained my M.Eng. degree from [Nanyang Technological University](http://www.n
 
 Research Interest
 ======
-My research focuses on designing, implementing, and testing new sensing systems and algorithms using sensors and devices that are already present in the environment. This approach allows us to add various functionalities to our daily-use devices without making any hardware modifications. I use my expertise in mobile computing, sensing, signal processing, and machine learning to solve problems in various domains, including Cyber-Physical Systems (CPS) and smart buildings.
+<!-- My research focuses on designing, implementing, and testing new sensing systems and algorithms using sensors and devices that are already present in the environment. 
+This approach allows us to add various functionalities to our daily-use devices without making any hardware modifications. I use my expertise in mobile computing, sensing, signal processing, and machine learning to solve problems in various domains, including Cyber-Physical Systems (CPS) and smart buildings. -->
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research focuses on cross-modality crowdsourcing (CMC). By utilizing co-existent sensor modalities, CMC aims to automatically label a target modality information with other auxiliary modality information. An example of CMC is labeling human voices with WiFi access points.
 
 Getting started
 ======
