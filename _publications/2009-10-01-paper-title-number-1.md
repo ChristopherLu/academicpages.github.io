@@ -6,7 +6,7 @@ venue: "Sensors"
 excerpt: 'We propose an indoor localization algorithm based on an online sequential extreme learning machine (OS-ELM) to fastly update WiFi fingerprinting database and make our our indoor localization system robust to environmental dynamics.'
 date: 2014-11-20
 paperurl: http://www.mdpi.com/1424-8220/15/1/1804
-<!-- citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).' -->
+citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
 
 ## Abstract
