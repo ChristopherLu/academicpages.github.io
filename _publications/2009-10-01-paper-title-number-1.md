@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A Fast and Precise Indoor Localization Algorithm based on Online Sequential Extreme Learning Machine."
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "Journal 1"
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
+venue: "Sensors"
+excerpt: 'We propose an indoor localization algorithm based on an online sequential extreme learning machine (OS-ELM) to fastly update WiFi fingerprinting database and make our our indoor localization system robust to environmental dynamics.'
+date: 2014-11-20
+paperurl: http://www.mdpi.com/1424-8220/15/1/1804
+<!-- citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).' -->
 ---
 
 ## Abstract
