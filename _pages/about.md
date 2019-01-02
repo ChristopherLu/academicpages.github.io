@@ -16,12 +16,12 @@ I earned my MEng degree in 2015 from [Nanyang Technological University](http://w
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges that arise when computers collect and reason about sensor data, with a focus on IoT and Cyber-Physical Security. Concretely, my research aims to enable autonomous context inference and allows computation to recede into the background of everyday life. To this end, I develop cross-modality solutions leveraging techniques from wireless sensing, data mining and machine learning.
+Broadly, my research interests revolve around the systems and modeling challenges that arise when computers collect and reason about sensor data, with a focus on IoT and Cyber-Physical Security. Concretely, my research aims to enable autonomous context inference and allows computation to recede into the background of everyday life. To this end, I develop ***cross-modality solutions*** leveraging techniques from wireless sensing, data mining and machine learning.
 
 Recent News
 ======
-* December 27th, 2018. Gave a talk at Huazhong University of Science and Technology, host by Prof [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
-* November 23rd, 2018. Gave a talk at University of Cambridge, host by Prof [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+* December 27th, 2018. Gave a talk at Huazhong University of Science and Technology, host by Prof. [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
+* November 23rd, 2018. Gave a talk at University of Cambridge, host by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
 * November 5th, 2018. Showcased a demo at SenSys 2018.
 * November 3rd, 2018. One paper was accepted to AAAI 2019.
 * July 24th, 2018. One paper was accepted to MobiCom 2018.
