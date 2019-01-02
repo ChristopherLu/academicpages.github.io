@@ -16,7 +16,7 @@ I earned my MEng degree in 2015 from [Nanyang Technological University](http://w
 Research Interest
 ======
 
-My research interest lies in ubiquitous and mobile computing, with a focus on enabling ambient intelligence for Internet of Things (IoT) via cross-modality inference. To this end, I develop intelligent environments leveraging techniques from wireless sensing, data mining and machine learning.
+Broadly, my research interests revolve around the systems and modeling challenges that arise when computers collect and reason about sensor data, with a focus on IoT and Cyber-Physical Security. Concretely, my research aims to enable autonomous context inference and allows computation to recede into the background of everyday life. To this end, I develop cross-modality inference based systems leveraging techniques from wireless sensing, data mining and machine learning.
 
 <!-- Getting started
 ======
