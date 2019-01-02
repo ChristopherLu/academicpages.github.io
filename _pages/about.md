@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and Prof. [Hongkai Wen](http://www2.warwick.ac.uk/fac/sci/dcs/people/hongkai_wen). My study is kindly funded by Google [Deepmind](https://deepmind.com/).
+I am a final-year PhD candidate in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously funded by Google DeepMind. I earned my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof.[Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en).
 
-I obtained my M.Eng. degree from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU) in 2015, advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from [Nanjing University of Aeronautics and Astronautics](http://iao.nuaa.edu.cn/) (NUAA) in 2013 with a B.E. in Computer Engineering. 
 
 Research Interest
 ======
-<!-- My research focuses on designing, implementing, and testing new sensing systems and algorithms using sensors and devices that are already present in the environment. 
-This approach allows us to add various functionalities to our daily-use devices without making any hardware modifications. I use my expertise in mobile computing, sensing, signal processing, and machine learning to solve problems in various domains, including Cyber-Physical Systems (CPS) and smart buildings. -->
 
-My research focuses on cross-modality crowdsourcing (CMC). By utilizing co-existent sensor modalities, CMC aims to automatically label a target modality information with other auxiliary modality information. An example of CMC is labeling human voices with WiFi access points.
+My research interest lies in ubiquitous and mobile computing, with a focus on enabling ambient intelligence for Internet of Things (IoT) via cross-modality inference. To this end, I develop intelligent environments leveraging techniques from wireless sensing, data mining and machine learning.
 
 <!-- Getting started
 ======
