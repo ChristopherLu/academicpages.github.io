@@ -10,13 +10,13 @@ redirect_from:
 
 I am a DPhil candidate in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [Hongkai Wen](https://warwick.ac.uk/fac/sci/dcs/people/hongkai_wen). My study is generously funded by Google DeepMind.
 
-I earned my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof.[Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013 with a B.E. in Automation Engineering.
+I earned my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013 with a B.E. in Automation Engineering.
 
 
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges that arise when computers collect and reason about sensor data, with a focus on IoT and Cyber-Physical Security. Concretely, my research aims to enable autonomous context inference and allows computation to recede into the background of everyday life. To this end, I develop ***cross-modality solutions*** leveraging techniques from wireless sensing, data mining and machine learning.
+Broadly, my research interests revolve around the systems and modeling challenges that arise when computers collect and reason about sensor data, with a focus on IoT and Cyber-Physical Security. More specifically, my research aims to enable autonomous context inference and allows computation to recede into the background of everyday life. To this end, I develop ***cross-modality solutions*** leveraging techniques from wireless sensing, data mining and machine learning.
 
 Recent News
 ======
