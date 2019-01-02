@@ -6,7 +6,7 @@ author_profile: true
 
 ## Deep Learning
 
-<b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](http:///christopherlu.github.io/publications/emrslam)</b> <br>
+<b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](https:///christopherlu.github.io/publications/emrslam)</b> <br>
 <b>Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <i>In MobiCom 2019.</i>
 
 <b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
