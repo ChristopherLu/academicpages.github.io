@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/), Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously funded by Google DeepMind. I earned my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof.[Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en).
+I am a final-year PhD candidate in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously funded by Google DeepMind. I also work closely with 
+
+I earned my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof.[Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013 with a B.E. in Automation Engineering.
 
 
 Research Interest
