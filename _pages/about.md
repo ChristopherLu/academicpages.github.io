@@ -20,11 +20,11 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
-* December 27th, 2018. Giving a talk at Huazhong University of Science and Technology, host by Prof [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
-* November 23rd, 2018. Giving a talk at University of Cambridge, host by Prof [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
-* November 5th, 2018. Showcasing a demo at SenSys 2018.
-* November 3rd, 2018. One paper accepted to AAAI 2019.
-* July 24th, 2018. One paper accepted to MobiCom 2018.
+* December 27th, 2018. Gave a talk at Huazhong University of Science and Technology, host by Prof [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
+* November 23rd, 2018. Gave a talk at University of Cambridge, host by Prof [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+* November 5th, 2018. Showcased a demo at SenSys 2018.
+* November 3rd, 2018. One paper was accepted to AAAI 2019.
+* July 24th, 2018. One paper was accepted to MobiCom 2018.
 
 <!-- Getting started
 ======
