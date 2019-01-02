@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com.sg/citations?user=idu78-EAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](http://lantaoyu.com/publications/CoT)</b> <br>
+<b>Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Linhai Xie, Hongkai Wen, Rui Tan, Niki Trigoni. <i>In MobiCom 2018.</i>

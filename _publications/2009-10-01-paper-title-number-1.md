@@ -1,5 +1,6 @@
 ---
-title: "A Fast and Precise Indoor Localization Algorithm based on Online Sequential Extreme Learning Machine."
+title: "Simultaneous Localization and Mapping with Power
+Network Electromagnetic Field"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
 venue: "Sensors"
