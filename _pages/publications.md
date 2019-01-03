@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.co.uk/citations?user=idu78-EAAAAJ&hl=en)"
+title: "Publications [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Lu:Xiaoxuan)"
 permalink: /publications/
 author_profile: true
 ---
