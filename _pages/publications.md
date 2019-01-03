@@ -1,5 +1,5 @@
 ---
-title: "Publications [(DBLP)](https://dblp.uni-trier.de/pers/hd/l/Lu:Xiaoxuan)"
+title: "Selected Publications [Full list in DBLP](https://dblp.uni-trier.de/pers/hd/l/Lu:Xiaoxuan)"
 permalink: /publications/
 author_profile: true
 ---
