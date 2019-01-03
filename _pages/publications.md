@@ -6,21 +6,29 @@ author_profile: true
 
 ## Conference Papers
 
+<b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
+Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni
+<i> Thirty−Third AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
+
 <b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](https://christopherlu.github.io/publications/emrslam)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <br>
-<i> International Conference on Mobile Computing and Networking（ACM MobiCom), 2018 </i>
+<i> International Conference on Mobile Computing and Networking（MobiCom), 2018 </i>
 
 <b>[Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning](https://christopherlu.github.io/publications/snoopy)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <br>
-<i> International Joint Conference on Pervasive and Ubiquitous Computing (ACM UbiComp), 2018 </i>
+<i> International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 </i>
 
 <b>[DeepAuth: In-situ Authentication for Smartwatches via Deeply Learned Behavioural Biometrics](https://christopherlu.github.io/publications/deepauth)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <br>
-<i> International Joint Conference on Pervasive and Ubiquitous Computing (ACM ISWC), 2018 </i>
+<i> International Joint Conference on Pervasive and Ubiquitous Computing (ISWC), 2018 </i>
+
+<b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet)</b> <br>
+Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni
+<i> Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018 </i>
 
 <b>[SCAN: Learning Speaker Identity From Noisy Sensor Data](https://christopherlu.github.io/publications/scan)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Hongkai Wen, Sen Wang, Andrew Markham and Niki Trigoni <br>
-<i> International Conference on Information Processing in Sensor Networks (ACM/IEEE IPSN), 2017 </i>
+<i> International Conference on Information Processing in Sensor Networks (IPSN), 2017 </i>
 
 <b>[Robust Occupancy Inference with Commodity WiFi](https://christopherlu.github.io/publications/wipin)</b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni <br>
