@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 <font size="5" color="green">Conference Papers</font>
-&nbsp; 
+
+<br/> 
+
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni
 <i> Thirty−Third AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
@@ -35,7 +37,9 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni
 <i> International Conference on Wireless and Mobile Computing‚ Networking and Communications (IEEE WiMob). 2016. </i>
 
 <font size="5" color="red">Journal Papers</font>
-&nbsp; 
+
+<br/> 
+
 <b>[Efficient Indoor Positioning with Visual Experiences via Lifelong Learning](https://christopherlu.github.io/publications/tmc18)</b> <br>
 Hongkai Wen‚ Ronald Clark‚ Sen Wang‚ <b>Chris Xiaoxuan Lu</b>‚ Bowen Du‚ Wen Hu and Niki Trigoni
 <i> IEEE Transactions on Mobile Computing (TMC), 2018 </i>
