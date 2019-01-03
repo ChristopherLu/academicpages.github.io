@@ -7,14 +7,14 @@ author_profile: true
 ## Conferences
 
 <b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](https://christopherlu.github.io/publications/emrslam)</b> <br>
-<b>Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <br>
+<b>Chris Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <br>
 <i> International Conference on Mobile Computing and Networking（ACM MobiCom), 2018 </i>
 
 <b>[Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning](https://christopherlu.github.io/publications/snoopy)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <br>
 <i> International Joint Conference on Pervasive and Ubiquitous Computing (ACM UbiComp), 2018 </i>
 
-<b>[DeepAuth: Sniffing Your Smartwatch Passwords via Deep Sequence Learning](https://christopherlu.github.io/publications/snoopy)</b> <br>
+<b>[DeepAuth: In-situ Authentication for Smartwatches via Deeply Learned Behavioural Biometrics](https://christopherlu.github.io/publications/deepauth)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <br>
 <i> International Joint Conference on Pervasive and Ubiquitous Computing (ACM UbiComp), 2018 </i>
 
