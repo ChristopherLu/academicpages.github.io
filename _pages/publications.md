@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conferences Papers
+## Conference Papers
 
 <b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](https://christopherlu.github.io/publications/emrslam)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <br>
@@ -22,5 +22,28 @@ author_profile: true
 <b>Chris Xiaoxuan Lu</b>, Hongkai Wen, Sen Wang, Andrew Markham and Niki Trigoni <br>
 <i> International Conference on Information Processing in Sensor Networks (ACM/IEEE IPSN), 2017 </i>
 
+<b>[Robust Occupancy Inference with Commodity WiFi](https://christopherlu.github.io/publications/wipin)</b> <br>
+<b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni <br>
+<i> International Conference on Wireless and Mobile Computing‚ Networking and Communications (IEEE WiMob). 2016. </i>
 
 ## Journal Papers
+
+<b>[Efficient Indoor Positioning with Visual Experiences via Lifelong Learning](https://christopherlu.github.io/publications/tmc18)</b> <br>
+Hongkai Wen‚ Ronald Clark‚ Sen Wang‚ <b>Chris Xiaoxuan Lu</b>‚ Bowen Du‚ Wen Hu and Niki Trigoni
+<i> IEEE Transactions on Mobile Computing (TMC), 2018 </i>
+
+<b>[Semantic Place Understanding for Human−Robot Coexistence − Towards Intelligent Workplaces](https://christopherlu.github.io/publications/thms18)</b> <br>
+Stefano Rosa‚ Andrea Patanè‚ <b>Chris Xiaoxuan Lu</b> and Niki Trigoni <br>
+<i> IEEE Transactions on Human−Machine Systems (THMS), 2018 </i>
+
+<b>[A Robust Indoor Positioning System Based on the Procrustes Analysis and Weighted Extreme Learning Machine](https://christopherlu.github.io/publications/twc16)</b> <br>
+Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie
+<i> IEEE Transactions on Wireless Communications (TWC), 2018 </i>
+
+<b>[Robust Extreme Learning Machine With its Application to Indoor Positioning](https://christopherlu.github.io/publications/tc16)</b> <br>
+<b>Chris Xiaoxuan Lu</b> Han Zou‚ Hongming Zhou‚ Lihua Xie and Guang−Bin Huang<br>
+<i> IEEE Transactions on Cybernetics, 2016 </i>
+
+
+
+
