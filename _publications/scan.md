@@ -3,7 +3,7 @@ title: "SCAN: Learning Speaker Identity From Noisy Sensor Data"
 collection: publications
 permalink: /publications/scan
 date: 2017-04-18
-citation: '<b>Chris Xiaoxuan Lu</b>, Hongkai Wen, Sen Wang, Andrew Markham and Niki Trigoni <i>In IPSN 2017.</i>'
+citation: '<b>Chris Xiaoxuan Lu</b>, Hongkai Wen, Sen Wang, Andrew Markham and Niki Trigoni. <i>In IPSN 2017.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/[IPSN2017]scan.pdf)
 

@@ -3,7 +3,7 @@ title: "DeepAuth: In-situ Authentication for Smartwatches via Deeply Learned Beh
 collection: publications
 permalink: /publications/deepauth
 date: 2018-10-08
-citation: '<b>Chris Xiaoxuan Lu</b>, Bowen Du, Peijun Zhao, Hongkai Wen, Yiran Shen, Andrew Markham and Niki Trigoni <i>In ISWC 2018.</i>'
+citation: '<b>Chris Xiaoxuan Lu</b>, Bowen Du, Peijun Zhao, Hongkai Wen, Yiran Shen, Andrew Markham and Niki Trigoni. <i>In ISWC 2018.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/[ISWC2018]deepauth.pdf)
 
