@@ -1,5 +1,5 @@
 ---
-title: "Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning"
+title: "DeepAuth: In-situ Authentication for Smartwatches via Deeply Learned Behavioural Biometrics"
 collection: publications
 permalink: /publications/deepauth
 date: 2018-4-12
