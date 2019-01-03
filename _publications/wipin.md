@@ -1,11 +1,11 @@
 ---
-title: "Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning"
+title: "Robust Occupancy Inference with Commodity WiFi"
 collection: publications
-permalink: /publications/snoopy
+permalink: /publications/wipin
 date: 2016-10-15
-citation: '<b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni <i>In WiMob 2016.</i>'
+citation: '<b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni. <i>In WiMob 2016.</i>'
 ---
-[[Paper]](https://christopherlu.github.io/files/papers/[UbiComp2018]Snoopy.pdf)
+[[Paper]](https://christopherlu.github.io/files/papers/[WiMob2016]wipin.pdf)
 
 
 ## Abstract

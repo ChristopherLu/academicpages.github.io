@@ -3,7 +3,7 @@ title: "Snoopy: Sniffing Your Smartwatch Passwords via Deep Sequence Learning"
 collection: publications
 permalink: /publications/snoopy
 date: 2018-10-08
-citation: '<b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <i>In UbiComp 2018.</i>'
+citation: '<b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni. <i>In UbiComp 2018.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/[UbiComp2018]Snoopy.pdf)
 
