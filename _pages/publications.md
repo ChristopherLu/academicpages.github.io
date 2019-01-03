@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.co.uk/citations?user=idu78-EAAAAJ&hl=en)"
+<!-- title: "Publications [(Google Scholar Profile)](https://scholar.google.co.uk/citations?user=idu78-EAAAAJ&hl=en)" -->
 permalink: /publications/
 author_profile: true
 ---
