@@ -33,7 +33,7 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 
 <b>[Robust Occupancy Inference with Commodity WiFi](https://christopherlu.github.io/publications/wipin)</b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni <br>
-<i> International Conference on Wireless and Mobile Computing‚ Networking and Communications (IEEE WiMob). 2016. </i>
+<i> International Conference on Wireless and Mobile Computing‚ Networking and Communications (WiMob). 2016. </i>
 
 <font size="6" color="red">Journal Papers</font>
 <br/> 
