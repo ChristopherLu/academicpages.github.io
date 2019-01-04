@@ -46,7 +46,7 @@ Stefano Rosa‚ Andrea Patanè‚ <b>Chris Xiaoxuan Lu</b> and Niki Trigoni <br>
 
 <b>[A Robust Indoor Positioning System Based on the Procrustes Analysis and Weighted Extreme Learning Machine](https://christopherlu.github.io/publications/twc16)</b> <br>
 Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie
-<i> IEEE Transactions on Wireless Communications (TWC), 2018 </i>
+<i> IEEE Transactions on Wireless Communications (TWC), 2016 </i>
 
 <b>[Robust Extreme Learning Machine With its Application to Indoor Positioning](https://christopherlu.github.io/publications/tc16)</b> <br>
 <b>Chris Xiaoxuan Lu</b> Han Zou‚ Hongming Zhou‚ Lihua Xie and Guang−Bin Huang<br>
