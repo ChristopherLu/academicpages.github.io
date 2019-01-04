@@ -3,12 +3,13 @@ title: "A Robust Indoor Positioning System Based on the Procrustes Analysis and 
 collection: publications
 permalink: /publications/twc16
 date: 2016-02-01
-citation: 'Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie. <i>In IEEE Transactions on Wireless Communications (TWC), 2016.</i>'
+citation: 'Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie. <br>
+<i>In IEEE Transactions on Wireless Communications (TWC), 2016.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/tc16.pdf)
 
 ## Abstract
-Abstract—Indoor positioning system (IPS) has become one of
+Indoor positioning system (IPS) has become one of
 the most attractive research fields due to the increasing demands
 on location-based services (LBSs) in indoor environments. Various
 IPSs have been developed under different circumstances, and most
