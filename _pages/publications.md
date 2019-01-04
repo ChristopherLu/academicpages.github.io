@@ -35,6 +35,8 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 <b>Chris Xiaoxuan Lu</b>‚ Hongkai Wen‚ Han Zou‚ Hao Jiang‚ Lihua Xie and Niki Trigoni <br>
 <i> International Conference on Wireless and Mobile Computing‚ Networking and Communications (WiMob). 2016. </i>
 
+---
+
 <font size="6" color="red">Journal Papers</font>
 <br/> 
 <b>[Efficient Indoor Positioning with Visual Experiences via Lifelong Learning](https://christopherlu.github.io/publications/tmc18)</b> <br>
