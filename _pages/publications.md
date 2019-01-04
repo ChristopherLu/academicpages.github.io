@@ -9,7 +9,6 @@ author_profile: true
 
 <font size="6" color="green">Conference Papers</font>
 <br/> 
-
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni <br>
 <i> Thirty−Third AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
