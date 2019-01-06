@@ -9,24 +9,24 @@ author_profile: true
 <font size="6" color="green">Top Conference (by CORE Ranking)</font>
 
 - Mobile & Ubiquitous Computing
-	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/)) (deadlines: March/August)
-	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/)) (deadline: Feb/May/Aug/Nov)
-	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/)) (deadline: December)
+	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
+	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
+	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
 
 - IoT & Cyber Physical Systems
-	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/)) (deadline: April)
-	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/)) (deadline: October)
-	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/)) (deadline: November)
+	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
+	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
+	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
 
 - Security & Privacy
-	- IEEE Symposium on Security and Privacy ([S&P](http://portal.core.edu.au/conf-ranks/750/)) (deadlines: the first day of every month)
-	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/)) (deadlines: February/June/October)
-  	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/)) (deadlines: February/May/August/Novermber)
+	- IEEE Symposium on Security and Privacy ([S&P](http://portal.core.edu.au/conf-ranks/750/))
+	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/))
+	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/))
 
 - HCI & Wearable Computing
-	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/)) (deadline: September)
-	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/)) (deadline: May)
-	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/)) (deadline: May)
+	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
+	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/))
+	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/))
 
 
 <font size="6" color="red"> Advice Collection </font>
