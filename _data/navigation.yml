@@ -20,7 +20,8 @@ main:
     
   - title: "Activities"
     url: /activities/  
-
+  - title: "Links"
+    url: /links/  
   - title: "Contact"
     url: /contact/ 
 
