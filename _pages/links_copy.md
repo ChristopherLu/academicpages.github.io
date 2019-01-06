@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Links"
-permalink: /links/
+title: "Links_copy"
+permalink: /links_copy/
 author_profile: true
 ---
 <br/>
