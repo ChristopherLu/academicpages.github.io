@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Links"
+title: "Miscellaneous Links"
 permalink: /links/
 author_profile: true
 ---
-<br/>
 
 <font size="6" color="green">Top Conference (by CORE Ranking)</font>
 
