@@ -5,7 +5,8 @@ permalink: /links/
 author_profile: true
 ---
 
-## Top Conference (by CORE Ranking) ## 
+<font size="6" color="green">Top Conference (by CORE Ranking)</font>
+<br/> 
 
 - Mobile & Ubiquitous Computing
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/)) (deadlines: March/August)
@@ -27,8 +28,9 @@ author_profile: true
 	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/)) (deadline: May)
 	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/)) (deadline: May)
 
-  
- ## Advice Collection ## 
+
+<font size="6" color="red"> Advice Collection </font>
+<br/> 
 
  - How to Have a Bad Career in Research/Academia (by David Patterson) [[link](https://www.youtube.com/watch?v=Rn1w4MRHIhc)]
  - Advice on Research and Writing [[Link](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)]
