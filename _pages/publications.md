@@ -55,7 +55,7 @@ Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie <b
 <i> IEEE Transactions on Wireless Communications (TWC), 2016 </i>
 
 <b>[Robust Extreme Learning Machine With its Application to Indoor Positioning](https://christopherlu.github.io/publications/tc16)</b> <br>
-<b>Chris Xiaoxuan Lu</b> Han Zou‚ Hongming Zhou‚ Lihua Xie and Guang−Bin Huang<br>
+<b>Chris Xiaoxuan Lu</b>, Han Zou‚ Hongming Zhou‚ Lihua Xie and Guang−Bin Huang<br>
 <i> IEEE Transactions on Cybernetics, 2016 </i>
 
 
