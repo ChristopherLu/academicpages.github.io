@@ -9,6 +9,10 @@ author_profile: true
 
 <font size="6" color="green">Conference Papers</font>
 <br/> 
+<b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://www.youtube.com/watch?v=jRNwws8soHg&feature=youtu.be) </b> <br>
+<b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
+<i> In The Web Conference (WWW), 2019. </i>
+
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni <br>
 <i> Thirty−Third AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
@@ -22,7 +26,7 @@ Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Bl
 <i> International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2018 </i>
 
 <b>[DeepAuth: In-situ Authentication for Smartwatches via Deeply Learned Behavioural Biometrics](https://christopherlu.github.io/publications/deepauth)</b> <br>
-<b>Chris Xiaoxuan Lu</b>, Bowen Du, Hongkai Wen, Sen Wang, Andrew Markham, Ivan Martinovic, Yiran Shen and Niki Trigoni <br>
+<b>Chris Xiaoxuan Lu</b>, Bowen Du‚ Peijun Zhao‚ Hongkai Wen‚ Yiran Shen‚ Andrew Markham and Niki Trignoni <br>
 <i> International Symposium on Wearable Computers (ISWC), 2018 </i>
 
 <b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet)</b> <br>
