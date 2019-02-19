@@ -20,6 +20,7 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
+* February 18th, 2019. PhD Thesis Defended. Dr. Lu now!
 * January 21st, 2019. One [paper](https://youtu.be/jRNwws8soHg) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
 * December 27th, 2018. Gave a talk at Huazhong University of Science and Technology, host by Prof. [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
 * November 23rd, 2018. Gave a talk at University of Cambridge, host by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
