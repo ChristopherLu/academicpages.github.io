@@ -9,7 +9,7 @@ author_profile: true
 
 <font size="6" color="green">Conference Papers</font>
 <br/> 
-<b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://www.youtube.com/watch?v=jRNwws8soHg&feature=youtu.be) </b> <br>
+<b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://christopherlu.github.io/publications/autotune) </b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
