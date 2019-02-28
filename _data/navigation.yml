@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://christopherlu.github.io/files/cv_lxx_full.pdf
     
   - title: "Activities"
     url: /activities/  
