@@ -7,7 +7,8 @@ author_profile: true
 
 - TPC Member
    - [EWSN 2019 (Demo/Poster)](http://ewsn2019.thss.tsinghua.edu.cn/)
-   - [IEEE ICC 2019](https://icc2018.ieee-icc.org/content/welcome-ieee-icc-2018)
+   - [IEEE ICC 2019](https://icc2019.ieee-icc.org/)
+   - [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
 
 - Session Chair
 	- [DATA Workshop@SenSys 2018](https://workshopdata.github.io/DATA2018/)
