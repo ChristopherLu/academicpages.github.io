@@ -9,10 +9,13 @@ author_profile: true
 
 <font size="6" color="green">Conference Papers</font>
 <br/> 
-<b> Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues </b> <br>
+<b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://christopherlu.github.io/publications/autotune) </b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
-[[paper](https://christopherlu.github.io/files/papers/[WWW2019]autotune.pdf)]
+
+<b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/selection) </b> <br>
+Changhao Chen‚ Stefano Rosa‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Wei Wu, Andrew Markham and Niki Trigoni. <br>
+<i> International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. </i>
 
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni <br>

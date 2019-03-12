@@ -20,7 +20,7 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
-* February 25th, 2019. One paper was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+* February 25th, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 * February 18th, 2019. PhD Thesis Defended. Dr. Lu now!
 * January 21st, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
 * December 27th, 2018. Gave a talk at Huazhong University of Science and Technology, host by Prof. [Wei Wang](http://ei.hust.edu.cn/professor/wangwei/).
