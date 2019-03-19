@@ -5,14 +5,14 @@ permalink: /links/
 author_profile: true
 ---
 
-<font size="6" color="green">Top Conferences (based on CORE Ranking)</font>
+<font size="6" color="green"> Regularly Followed Top Conferences </font>
 
 - Mobile & Ubiquitous Computing
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
 	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
 	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
 
-- IoT & Cyber Physical Systems
+- IoT System & Data Analytics
 	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
 	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
 	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
