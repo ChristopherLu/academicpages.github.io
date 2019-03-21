@@ -5,9 +5,8 @@ permalink: /activities/
 author_profile: true
 ---
 
-- TPC Member
+- Program Committee Member
    - [EWSN 2019 (Demo/Poster)](http://ewsn2019.thss.tsinghua.edu.cn/)
-   - [IEEE ICC 2019](https://icc2019.ieee-icc.org/)
    - [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
    - [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
 
@@ -21,12 +20,14 @@ author_profile: true
 	- IEEE Internet of Things Journal (IoT-J)
 	- IEEE Computational Intelligence Magazine
 	- IEEE Transactions on Cybernetics
-	- Neurocomputing
-	- Autonomous Robots
+	- Elsevier Neurocomputing
+	- Springer Autonomous Robots
 
-- External Reviewer
+- External Conference Reviewer
+	- [ACM UbiComp 2019](http://ubicomp.org/ubicomp2019/)
 	- [IJCAI 2019](https://ijcai19.org/)
-	- [ACM CHI 2018](https://chi2018.acm.org/)
+	- [ACM CHI 2019](https://chi2018.acm.org/)
+	- [IEEE ICC 2019](https://icc2019.ieee-icc.org/)
 
 - Membership
 	- ACM SIGMOBILE
