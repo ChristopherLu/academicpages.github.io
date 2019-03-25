@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Started from Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future".
+From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future".
 
-Before this, I earned my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
+I earned my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
 
-I did my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). Before that, I graduated from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013 with a B.E. in Automation Engineering.
+Prior to that, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
 
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges that arise in Mobile and Ubiquitous Computing, as well as Cyber-Physical Security. Particularly, my research aims to enable pervasive, autonomous and trusted mobile systems for wild conditions. To this end, I develop ***multi-modal and cross-modal solutions*** leveraging techniques from wireless sensing, machine learning and robotics.
+Broadly, my research interests revolve around the systems and modeling challenges in *Mobile & Ubiquitous Computing* and *Cyber-Physical Security*. In particular, my research aims to enable pervasive, autonomous and trusted mobile systems for wild conditions. To this end, I develop ***multi-modal and cross-modal solutions*** leveraging techniques from wireless sensing, machine learning and robotics.
+
 
 Recent News
 ======
