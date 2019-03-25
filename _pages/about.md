@@ -18,7 +18,7 @@ Prior to that, I received my MEng degree in 2015 from [Nanyang Technological Uni
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges in *Mobile & Ubiquitous Computing* and *Cyber-Physical Security*. In particular, my research aims to enable pervasive, autonomous and trusted mobile systems for wild conditions. To this end, I develop ***multi-modal and cross-modal solutions*** leveraging techniques from wireless sensing, machine learning and robotics.
+Broadly, my research interests revolve around the systems and modeling challenges in *Mobile & Ubiquitous Computing* and *Cyber-Physical Security*. In particular, my research aims to enable pervasive, autonomous and trusted mobile systems for wild conditions. To this end, I develop **multi-modal and cross-modal solutions** leveraging techniques from wireless sensing, machine learning and robotics.
 
 
 Recent News
