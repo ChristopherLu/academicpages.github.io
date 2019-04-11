@@ -35,5 +35,5 @@ author_profile: true
  - How to give a great research talk (by Simon Peyton Jones, John Launchbury and John Hughes) [[Link](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)]
  - How to write a great research proposal (by Simon Peyton Jones and Alan Bundy) [[Link](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)]
  - How to attend conference alone (by Yuanyuan Zhou) [[link](https://whova.com/blog/7-tips-for-attending-a-conference-alone-and-having-a-good-time-blog/)]
-
+ - How to land a faculty position (by Robert LiKamWa) [[link](http://roblkw.com/papers/landing_a_faculty_position-roblkw.pdf)]
 
