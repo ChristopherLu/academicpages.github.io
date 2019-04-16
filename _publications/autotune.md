@@ -6,6 +6,7 @@ date: 2019-05-13
 citation: '<b>Xiaoxuan Lu</b>, Xuan Kan, Bowen Du, Changhao Chen, Hongkai Wen, Andrew Markham, Niki Trigoni and John A. Stankovic. <i>In WWW 2019.</i>'
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[WWW2019]autotune.pdf)
+[[demo]](https://youtu.be/2eXD1yHeC74)
 
 ## Abstract
 Facial recognition is a key enabling component for emerging Internet

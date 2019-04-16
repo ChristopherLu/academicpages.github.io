@@ -6,6 +6,7 @@ date: 2019-03-12
 citation: 'Changhao Chen‚ Stefano Rosa‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Wei Wu, Andrew Markham and Niki Trigoni. <i>In CVPR 2019.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/[CVPR2019]selection.pdf)
+[[demo]](https://www.youtube.com/watch?v=w8y5L-1hgbw)
 
 ## Abstract
 Deep learning approaches for Visual-Inertial Odometry (VIO) have proven successful, but they rarely focus on incorporating robust fusion strategies for dealing with imperfect input sensory data.
