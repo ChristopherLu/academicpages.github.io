@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future".
+From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), and Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
 I earned my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
 
