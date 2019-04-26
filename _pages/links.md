@@ -5,7 +5,7 @@ permalink: /links/
 author_profile: true
 ---
 
-<font size="6" color="green"> Regularly Followed Top Conferences </font>
+<font size="6" color="green"> Top-tier Conferences </font>
 
 - Mobile & Ubiquitous Computing
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
