@@ -7,25 +7,25 @@ author_profile: true
 
 <font size="6" color="green"> Top-tier Conferences </font>
 
-- Mobile & Ubiquitous Computing
+- Mobile & Sensing Systems
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
-	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
+	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
 	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
 
-- IoT System & Data Analytics
-	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
-	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
+- IoT Data Analytics
 	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
+	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
+	- ACM International Conference on Research and Development in Information Retrieval ([SIGIR](http://portal.core.edu.au/conf-ranks/29/))
 
 - Security & Privacy
 	- IEEE Symposium on Security and Privacy ([S&P](http://portal.core.edu.au/conf-ranks/750/))
-	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/))
 	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/))
+	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/))
 
-- HCI & Wearable Computing
+- HCI & Ubiquitous Computing
 	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
+	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
 	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/))
-	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/))
 
 
 <font size="6" color="red"> Advice Collection </font>
