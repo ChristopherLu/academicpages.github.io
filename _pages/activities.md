@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 - Program Committee Member
-   - [EWSN 2019 (Demo/Poster)](http://ewsn2019.thss.tsinghua.edu.cn/)
-   - [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
-   - [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
-   - [CML-IoT @ UbiComp 2019](https://cmliot2019.github.io/)
+	- [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019)
+	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
+	- [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
+	- [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
+	- [CML-IoT @ UbiComp 2019](https://cmliot2019.github.io/)
 
 - Conference Reviewer
 	- [ACM UbiComp 2019](http://ubicomp.org/ubicomp2019/)
