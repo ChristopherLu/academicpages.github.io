@@ -10,7 +10,8 @@ author_profile: true
 	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
 	- [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
 	- [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
-	- [CML-IoT @ UbiComp 2019](https://cmliot2019.github.io/)
+	- [International Workshop on Continual Machine Learning for IoT @ UbiComp 2019](https://cmliot2019.github.io/)
+	- [International Workshop on Device-Free Human Sensing @ BuildSys 2019](http://buildsys.acm.org/2019/workshops.html)
 
 - Conference Reviewer
 	- [ACM UbiComp 2019](http://ubicomp.org/ubicomp2019/)
