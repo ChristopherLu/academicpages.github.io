@@ -1,5 +1,5 @@
 ---
-title: "Selective Sensor Fusion for Neural Visual Inertial Odometry (Honorable Mention Award)"
+title: "mID: Tracking and Identifying People with Millimeter Wave Radar (Honorable Mention Award)"
 collection: publications
 permalink: /publications/mid
 date: 2019-03-12
