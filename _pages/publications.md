@@ -13,6 +13,10 @@ author_profile: true
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
+<b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/mid) (Honorable Mention Award) </b> <br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu</b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
+<i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
+
 <b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/selection) </b> <br>
 Changhao Chen‚ Stefano Rosa‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Wei Wu, Andrew Markham and Niki Trigoni. <br>
 <i> International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. </i>
