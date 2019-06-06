@@ -14,7 +14,7 @@ author_profile: true
 <i> In The Web Conference (WWW), 2019. </i>
 
 <b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) </b> <br>
-Peijun Zhao, <b>Chris Xiaoxuan Lu</b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup> </b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
 <i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
 <b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/selection) </b> <br>
