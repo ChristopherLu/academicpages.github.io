@@ -1,7 +1,7 @@
 ---
 title: "mID: Tracking and Identifying People with Millimeter Wave Radar (Honorable Mention Award)"
 collection: publications
-permalink: /publications/mid
+permalink: /publications/mid1
 date: 2019-05-30
 citation: 'Peijun Zhao, <b>Chris Xiaoxuan Lu</b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <i>In DCOSS 2019.</i>'
 ---

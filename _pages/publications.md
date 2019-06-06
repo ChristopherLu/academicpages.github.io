@@ -13,7 +13,7 @@ author_profile: true
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
-<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/selection) </b> <br>
+<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) </b> <br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu</b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
 <i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
