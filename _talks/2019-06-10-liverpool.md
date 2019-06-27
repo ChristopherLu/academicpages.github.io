@@ -1,5 +1,5 @@
 ---
-title: "Towards Trustworthy and Autonomous Cyber-physical Systems"
+title: "Towards Trustworthy Cyber-physical Systems"
 collection: talks
 type: "Departmental talk"
 permalink: /talks/2019-06-10-liverpool
