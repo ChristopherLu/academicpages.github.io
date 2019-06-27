@@ -25,6 +25,7 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
+* June, 2019. Gave three talks on CPS and AIoT at Oxford, Liverpool and Cardiff University.
 * May 30th, 2019. One [paper](https://christopherlu.github.io/publications/mid1) received Honorable Mention Award at [DCOSS 2019](https://www.dcoss.org/)
 * February 25th, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 * January 21st, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
