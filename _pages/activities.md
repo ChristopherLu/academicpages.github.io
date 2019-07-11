@@ -13,6 +13,8 @@ author_profile: true
 	- [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
 	- [International Workshop on Continual Machine Learning for IoT @ UbiComp 2019](https://cmliot2019.github.io/)
 	- [International Workshop on Device-Free Human Sensing @ BuildSys 2019](http://buildsys.acm.org/2019/workshops.html)
+	- [International Workshop on Combining Physical and Data-Driven Knowledge @ UbiComp 2019](https://ubicomp-cpd.com/)
+
 
 - Conference Reviewer
 	- [ACM UbiComp 2019](http://ubicomp.org/ubicomp2019/)
