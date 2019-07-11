@@ -1,5 +1,5 @@
 ---
-title: "mID: Tracking and Identifying People with Millimeter Wave Radar (Honorable Mention Award)"
+title: "mID: Tracking and Identifying People with Millimeter Wave Radar (Best Paper Nominee)"
 collection: publications
 permalink: /publications/mid1
 date: 2019-05-30
