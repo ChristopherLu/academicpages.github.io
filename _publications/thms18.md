@@ -1,7 +1,7 @@
 ---
 title: "Semantic Place Understanding for Human−Robot Coexistence − Towards Intelligent Workplaces"
 collection: publications
-permalink: /publications/thms2018
+permalink: /publications/thms18
 date: 2018-10-24
 citation: 'Stefano Rosa‚ Andrea Patanè‚ <b>Chris Xiaoxuan Lu</b> and Niki Trigoni. <i>In IEEE Transactions on Human−Machine Systems (THMS) 2018.</i>'
 ---
