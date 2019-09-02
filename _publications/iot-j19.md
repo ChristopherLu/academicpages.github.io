@@ -2,8 +2,8 @@
 title: "Semantic Place Understanding for Human−Robot Coexistence − Towards Intelligent Workplaces"
 collection: publications
 permalink: /publications/iot-j19
-date: 2018-10-24
-citation: 'Stefano Rosa‚ Andrea Patanè‚ <b>Chris Xiaoxuan Lu</b> and Niki Trigoni. <i>In IEEE Transactions on Human−Machine Systems (THMS) 2018.</i>'
+date: 2019-06-21
+citation: '<b>Chris Xiaoxuan Lu</b>, Yuanbo Xiangli, Peijun Zhao, Changhao Chen, Niki Trigoni and Andrew Markham. <i>In IEEE Internet of Things Journal (IoT-J) 2019.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/iot-j19.pdf)
 
