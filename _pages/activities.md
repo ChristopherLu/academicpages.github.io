@@ -27,6 +27,8 @@ author_profile: true
 	- IEEE Transactions on Mobile Computing (TMC)
 	- ACM Transactions on Sensor Networks (TOSN)
 	- IEEE Internet of Things Journal (IoT-J)
+	- ACM Transactions on Intelligent Systems and Technology 
+	- ACM Transactions on Computing for Healthcare
 	- IEEE Computational Intelligence Magazine
 	- IEEE Transactions on Cybernetics
 	- Elsevier Neurocomputing
