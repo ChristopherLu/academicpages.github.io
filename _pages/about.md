@@ -27,8 +27,8 @@ Recent News
 ======
 * October, 2019. Invited to serve as TPC for WWW'20!
 * June, 2019. Gave three talks on CPS and AIoT at Oxford, Liverpool and Cardiff University.
-* May 30th, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
-* February 25th, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
-* January 21st, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
-* November 23rd, 2018. Gave a talk at University of Cambridge, host by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
-* July 24th, 2018. One [paper](https://christopherlu.github.io/publications/emrslam) was accepted to [MobiCom 2018](https://sigmobile.org/mobicom/2018/).
+* May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
+* February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+* January, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
+* November, 2018. Gave a talk at University of Cambridge, host by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+* July, 2018. One [paper](https://christopherlu.github.io/publications/emrslam) was accepted to [MobiCom 2018](https://sigmobile.org/mobicom/2018/).
