@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 - Program Committee Member
-	- [International Workshop on Reliable, Robust, and Secure Embedded Wireless Sensing Systems @ EWSN 2020](https://wp.doc.ic.ac.uk/failsafe/)
+	- [ACM WWW 2020](https://www2020.thewebconf.org/)
+	- [International Workshop on FAILSAFE @ EWSN 2020](https://wp.doc.ic.ac.uk/failsafe/)
 	- [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019)
 	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
 	- [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
