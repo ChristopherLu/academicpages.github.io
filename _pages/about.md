@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), and Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
+From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
-I earned my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
+I obtained my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
 
 Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
@@ -18,14 +18,14 @@ Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technol
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about data in the physical world. My work looks to design and implement *pervasive* and *trustworthy* systems that can reliably work in the wild with limited human guidance. I argue for a **holistic** approach by leveraging tactics from machine learning, wireless communications, embedded systems, security, ubiquitous computing and robotics, and design novel methods at the boundaries of these areas.
+Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about data in the physical world. My work looks to design and implement *pervasive* and *trustworthy* systems that reliably work in the wild with limited human intervention.I argue for a **holistic** approach by leveraging tactics from machine learning, wireless communications, embedded systems, security, ubiquitous computing and robotics, and design novel methods at the boundaries of these areas.
 
 <!-- my research aims to enable pervasive, autonomous and trustworth cyber physical systems (aka. Internet of Things) in the wild. To this end, I develop **multi-modal and cross-modal solutions** leveraging techniques from wireless sensing, machine learning and robotics. -->
 
 
 Recent News
 ======
-* October, 2019. Invited to serve as TPC for WWW'20!
+* October, 2019. Invited to serve as TPC for WWW'20.
 * June, 2019. Gave three talks on CPS and AIoT at Oxford, Liverpool and Cardiff University.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
