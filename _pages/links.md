@@ -5,12 +5,12 @@ permalink: /links/
 author_profile: true
 ---
 
-<font size="6" color="green"> Conferences </font>
+<font size="6" color="green"> Conferences Watchlist </font>
 
 - Mobile & Sensing Systems
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
-	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
 	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
+	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
 
 - IoT Data Analytics
 	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
@@ -22,10 +22,12 @@ author_profile: true
 	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/))
 	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/))
 
-- HCI & Ubiquitous Computing
-	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
+- Ubiquitous Computing & HCI
 	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
 	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/))
+	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
+	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/))
+
 
 
 <font size="6" color="red"> Advice Collection </font>
