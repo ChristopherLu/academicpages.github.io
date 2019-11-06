@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at Liverpool University. Please drop me email if you are interested in doing a PhD at Liverpool!**
+**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at Liverpool University. Please drop me email if you are looking for PhD positions on Autonomous & Cyber-Physical Systems!**
 
 From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 

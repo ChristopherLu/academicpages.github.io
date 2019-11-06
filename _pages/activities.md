@@ -7,6 +7,7 @@ author_profile: true
 
 - Program Committee Member
 	- [ACM WWW 2020](https://www2020.thewebconf.org/)
+	- [GPC 2020](https://www.gpc2020.cn/index.html)
 	- [International Workshop on FAILSAFE @ EWSN 2020](https://wp.doc.ic.ac.uk/failsafe/)
 	- [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019)
 	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
