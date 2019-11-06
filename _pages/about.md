@@ -26,7 +26,7 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
-* I will be starting as an Assistant Professor at Liverpool University from March 2020!
+* I will be starting as an Assistant Professor at [Liverpool University](https://www.liverpool.ac.uk/computer-science/) from March 2020!
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
