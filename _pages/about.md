@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+**NEW: I will be starting as an Assistant Professor at Liverpool University From March 2020! Please drop me email if you are interested in doing a PhD at Liverpool.**
+
 From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
 I obtained my PhD degree in Computer Science at Oxford University, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind.
-
 Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
 
