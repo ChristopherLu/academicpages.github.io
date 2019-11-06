@@ -25,8 +25,8 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
+* I will be starting as an Assistant Professor at Liverpool University From March 2020!
 * October, 2019. Invited to serve as TPC for WWW'20.
-* June, 2019. Gave three talks on CPS and AIoT at Oxford, Liverpool and Cardiff University.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 * January, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
