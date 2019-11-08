@@ -28,7 +28,7 @@ Recent News
 ======
 * I will be starting as an Assistant Professor at [Liverpool University](https://www.liverpool.ac.uk/computer-science/) from March 2020!
 * October, 2019. Invited to serve as TPC for WWW'20.
-* May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got best paper nominee at [DCOSS 2019](https://www.dcoss.org/)
+* May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got **best paper nominee** at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 * January, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
 * November, 2018. Gave a talk at University of Cambridge, host by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
