@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at Liverpool University. Please drop me email if you are looking for PhD positions on Autonomous & Cyber-Physical Systems!**
+**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at University of Liverpool. Please drop me email if you are looking for PhD positions on Autonomous & Cyber-Physical Systems!**
 
 From Feb. 2019, I am a post-doctoral researcher at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
@@ -26,7 +26,9 @@ Broadly, my research interests revolve around the systems and modeling challenge
 
 Recent News
 ======
-* I will be starting as an Assistant Professor at [Liverpool University](https://www.liverpool.ac.uk/computer-science/) from March 2020!
+* I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020!
+
+* November, 2019. One [paper](https://arxiv.org/pdf/1909.03557.pdf) was accepted to [AAAI 2019](https://aaai.org/Conferences/AAAI-20/).
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got **best paper nominee** at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
