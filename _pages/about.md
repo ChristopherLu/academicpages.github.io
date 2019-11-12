@@ -28,7 +28,7 @@ Recent News
 ======
 * I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020!
 
-* November, 2019. One [paper](https://arxiv.org/pdf/1909.03557.pdf) was accepted to [AAAI 2019](https://aaai.org/Conferences/AAAI-20/).
+* November, 2019. One [paper](https://arxiv.org/pdf/1909.03557.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got **best paper nominee** at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
