@@ -55,10 +55,10 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 <font size="6" color="red">Journal Papers</font>
 <br/> 
 
-<!-- <b>[Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sensor Data](https://christopherlu.github.io/publications/iot-j19)</b> <br>
+<b>[Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sensor Data](https://christopherlu.github.io/publications/iot-j19)</b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Yuanbo Xiangli‚ Peijun Zhao‚ Changhao Chen‚ Niki Trigoni and Andrew Markham <br>
 <i> IEEE Internet of Things Journal (IoT-J), 2019 </i>
- -->
+
 <b>[Efficient Indoor Positioning with Visual Experiences via Lifelong Learning](https://christopherlu.github.io/publications/tmc18)</b> <br>
 Hongkai Wen‚ Ronald Clark‚ Sen Wang‚ <b>Chris Xiaoxuan Lu</b>‚ Bowen Du‚ Wen Hu and Niki Trigoni <br>
 <i> IEEE Transactions on Mobile Computing (TMC), 2018 </i>
