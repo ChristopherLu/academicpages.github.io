@@ -9,12 +9,17 @@ author_profile: true
 
 <font size="6" color="green">Conference Papers</font>
 <br/> 
+
+<b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) </b> <br>
+Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham <br>
+<i> Thirty−Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020 </i>
+
 <b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://christopherlu.github.io/publications/autotune) </b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
 <b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) (Best Paper Nominee) </b> <br>
-Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup> </b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni, Andrew Markham. <br>
 <i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
 <b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/selection) </b> <br>
@@ -54,6 +59,10 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 
 <font size="6" color="red">Journal Papers</font>
 <br/> 
+
+<b>[Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units](https://christopherlu.github.io/publications/tmc19)</b> <br>
+Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andrew Markham and Niki Trigoni <br>
+<i> IEEE Transactions on Mobile Computing (TMC), 2020 </i>
 
 <b>[Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sensor Data](https://christopherlu.github.io/publications/iot-j19)</b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Yuanbo Xiangli‚ Peijun Zhao‚ Changhao Chen‚ Niki Trigoni and Andrew Markham <br>

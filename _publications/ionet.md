@@ -5,7 +5,7 @@ permalink: /publications/ionet
 date: 2018-02-02
 citation: 'Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni. <i>In AAAI 2018.</i>'
 ---
-[[Paper]](https://christopherlu.github.io/files/papers/[AAAI2018]ionet.pdf)
+[[paper]](https://christopherlu.github.io/files/papers/[AAAI2018]ionet.pdf)
 [[demo]](https://www.youtube.com/watch?v=pr5tR6Wz-zs&t=1s)
 
 ## Abstract
