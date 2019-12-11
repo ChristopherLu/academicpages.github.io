@@ -28,7 +28,7 @@ Recent News
 ======
 <!-- * I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020! -->
 
-* December, 2020. Release the [source code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of UbiComp'18 paper.
+* December, 2020. Release the [source code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack system.
 * November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/). Code is available [here](https://github.com/BingCS/AtLoc).
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got **best paper nominee** at [DCOSS 2019](https://www.dcoss.org/)
