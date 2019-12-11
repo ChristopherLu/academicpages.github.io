@@ -19,7 +19,7 @@ Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technol
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about data in the physical world. My work looks to design and implement *pervasive* and *trustworthy* systems that reliably work in the wild with limited human intervention.I argue for a **holistic** approach by leveraging tactics from machine learning, wireless communications, embedded systems, security, ubiquitous computing and robotics, and design novel methods at the boundaries of these areas.
+Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about data in the physical world. My work looks to design and implement *pervasive* and *trustworthy* systems that reliably work in the wild with limited human intervention.I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy,  and design novel methods at the boundaries of these areas.
 
 <!-- my research aims to enable pervasive, autonomous and trustworth cyber physical systems (aka. Internet of Things) in the wild. To this end, I develop **multi-modal and cross-modal solutions** leveraging techniques from wireless sensing, machine learning and robotics. -->
 
