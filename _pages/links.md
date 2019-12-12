@@ -5,7 +5,7 @@ permalink: /links/
 author_profile: true
 ---
 
-<font size="6" color="green"> Conferences Watchlist </font>
+<font size="6" color="green"> Conference Watchlist </font>
 
 - Mobile & Sensing Systems
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))

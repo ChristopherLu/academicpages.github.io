@@ -2,7 +2,7 @@
 title: "AtLoc: Attention Guided Camera Localization"
 collection: publications
 permalink: /publications/atloc
-date: 2018-02-02
+date: 2020-02-02
 citation: 'Bing Wang, Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham. <i>In AAAI 2020.</i>'
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf)
