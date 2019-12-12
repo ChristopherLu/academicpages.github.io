@@ -7,7 +7,7 @@ author_profile: true
 
 <font size="6" color="green"> Conference Watchlist </font>
 
-- Mobile & Sensing Systems
+- Mobile & Cyber-Physical Systems
 	- ACM International Conference on Mobile Computing and Networking ([MobiCom](http://portal.core.edu.au/conf-ranks/27/))
 	- ACM Conference on Mobile System, Applications and Services ([MobiSys](http://portal.core.edu.au/conf-ranks/45/))
 	- ACM Conference on Embedded Sensor Systems ([SenSys](http://portal.core.edu.au/conf-ranks/15/))
@@ -15,8 +15,7 @@ author_profile: true
 - IoT Data Analytics
 	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
 	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
-	- ACM International Conference on Research and Development in Information Retrieval ([SIGIR](http://portal.core.edu.au/conf-ranks/29/))
-
+	
 - Security & Privacy
 	- IEEE Symposium on Security and Privacy ([S&P](http://portal.core.edu.au/conf-ranks/750/))
 	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/))
@@ -27,7 +26,6 @@ author_profile: true
 	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/))
 	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
 	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/))
-
 
 
 <font size="6" color="red"> Advice Collection </font>
