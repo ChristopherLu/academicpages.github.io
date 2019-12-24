@@ -20,10 +20,10 @@ author_profile: true
 
 
 - Conference Reviewer
-	- ACM UbiComp 2019, 2020
-	- IJCAI 2019
-	- ACM CHI 2019
-	- IEEE ICC 2019
+	- ACM UbiComp - 2019, 2020
+	- IJCAI - 2019
+	- ACM CHI - 2019
+	- IEEE ICC - 2019
 
 - Journal Reviewer
 	- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
