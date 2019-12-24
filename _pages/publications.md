@@ -60,7 +60,7 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 <font size="6" color="red">Journal Papers</font>
 <br/> 
 
-<b>[Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units](https://christopherlu.github.io/publications/tmc20_ionet)</b> <br>
+<b>[Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units](https://christopherlu.github.io/publications/tmc20-ionet)</b> <br>
 Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andrew Markham and Niki Trigoni <br>
 <i> IEEE Transactions on Mobile Computing (TMC), 2020 </i>
 
