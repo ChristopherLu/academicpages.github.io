@@ -20,10 +20,10 @@ author_profile: true
 
 
 - Conference Reviewer
-	- [ACM UbiComp 2019](http://ubicomp.org/ubicomp2019/)
-	- [IJCAI 2019](https://ijcai19.org/)
-	- [ACM CHI 2019](https://chi2018.acm.org/)
-	- [IEEE ICC 2019](https://icc2019.ieee-icc.org/)
+	- ACM UbiComp 2019, 2020
+	- IJCAI 2019
+	- ACM CHI 2019
+	- IEEE ICC 2019
 
 - Journal Reviewer
 	- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
@@ -36,6 +36,7 @@ author_profile: true
 	- IEEE Transactions on Cybernetics
 	- Elsevier Neurocomputing
 	- Springer Autonomous Robots
+	- MDPI Sensors
 
 - Session Chair
 	- [DATA Workshop @ SenSys 2018](https://workshopdata.github.io/DATA2018/)
