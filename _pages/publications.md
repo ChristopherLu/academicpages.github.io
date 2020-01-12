@@ -14,7 +14,7 @@ author_profile: true
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) <font color="#FF1493">[Selected RA-L Track]</font> </b> <br>
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
