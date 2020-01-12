@@ -12,11 +12,11 @@ author_profile: true
 
 <b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) </b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
-<i> In The Web Conference (WWW), 2020. </i>
+<i> The Web Conference (WWW), 2020. </i>
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
-<i> In International Conference on Robotics and Automation (ICRA), 2020. </i>
+<i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
 <b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) </b> <br>
 Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham <br>
@@ -26,7 +26,7 @@ Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni 
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
-<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="rgb(255,105,180)">[Best Paper Nominee]</font>  </b> <br>
+<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="#FF1493">[Best Paper Runner-up]</font>  </b> <br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni and Andrew Markham. <br>
 <i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
