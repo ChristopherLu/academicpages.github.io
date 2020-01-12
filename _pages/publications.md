@@ -20,11 +20,11 @@ Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and
 
 <b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) </b> <br>
 Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham <br>
-<i> Thirty−Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020 </i>
+<i> AAAI Conference on Artificial Intelligence (AAAI), 2020 </i>
 
 <b>[Autonomous Learning for Face Recognition in the Wild via Ambient Wireless Cues](https://christopherlu.github.io/publications/autotune) </b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
-<i> In The Web Conference (WWW), 2019. </i>
+<i> The Web Conference (WWW), 2019. </i>
 
 <b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="#FF1493">[Best Paper Runner-up]</font>  </b> <br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni and Andrew Markham <br>
@@ -36,7 +36,7 @@ Changhao Chen‚ Stefano Rosa‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Wei W
 
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni <br>
-<i> Thirty−Third AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
+<i> AAAI Conference on Artificial Intelligence (AAAI), 2019 </i>
 
 <b>[Simultaneous Localization and Mapping with Power Network Electromagnetic Field](https://christopherlu.github.io/publications/emrslam)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni <br>
@@ -52,7 +52,7 @@ Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Bl
 
 <b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet) </b> <br>
 Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br>
-<i> Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018 </i>
+<i> AAAI Conference on Artificial Intelligence (AAAI), 2018 </i>
 
 <b>[SCAN: Learning Speaker Identity From Noisy Sensor Data](https://christopherlu.github.io/publications/scan)</b> <br>
 <b>Chris Xiaoxuan Lu</b>, Hongkai Wen, Sen Wang, Andrew Markham and Niki Trigoni <br>
