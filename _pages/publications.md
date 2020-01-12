@@ -10,11 +10,11 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) </b> <br>
+<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) </b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) <font color="#FF1493">[Selected RA-L Track]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
@@ -50,7 +50,7 @@ Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Bl
 <b>Chris Xiaoxuan Lu</b>, Bowen Du‚ Peijun Zhao‚ Hongkai Wen‚ Yiran Shen‚ Andrew Markham and Niki Trignoni <br>
 <i> International Symposium on Wearable Computers (ISWC), 2018 </i>
 
-<b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet)</b> <br>
+<b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet) </b> <br>
 Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br>
 <i> Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018 </i>
 
