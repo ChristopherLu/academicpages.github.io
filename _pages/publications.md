@@ -10,6 +10,14 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
+<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) </b> <br>
+<b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
+<i> In The Web Conference (WWW), 2020. </i>
+
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
+Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
+<i> In International Conference on Robotics and Automation (ICRA), 2020. </i>
+
 <b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) </b> <br>
 Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham <br>
 <i> Thirty−Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020 </i>
@@ -18,7 +26,7 @@ Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni 
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> In The Web Conference (WWW), 2019. </i>
 
-<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) (Best Paper Nominee) </b> <br>
+<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="rgb(255,105,180)">[Best Paper Nominee]</font>  </b> <br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni and Andrew Markham. <br>
 <i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
@@ -63,6 +71,10 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 <b>[Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units](https://christopherlu.github.io/publications/tmc20-ionet)</b> <br>
 Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andrew Markham and Niki Trigoni <br>
 <i> IEEE Transactions on Mobile Computing (TMC), 2020 </i>
+
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
+Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
+<i> IEEE Robotics and Automation Letters (RA-L), 2020. </i>
 
 <b>[Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sensor Data](https://christopherlu.github.io/publications/iot-j19)</b> <br>
 <b>Chris Xiaoxuan Lu</b>‚ Yuanbo Xiangli‚ Peijun Zhao‚ Changhao Chen‚ Niki Trigoni and Andrew Markham <br>
