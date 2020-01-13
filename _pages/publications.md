@@ -50,7 +50,7 @@ Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Bl
 <b>Chris Xiaoxuan Lu</b>, Bowen Du‚ Peijun Zhao‚ Hongkai Wen‚ Yiran Shen‚ Andrew Markham and Niki Trignoni <br>
 <i> International Symposium on Wearable Computers (ISWC), 2018 </i>
 
-<b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet) </b> <br>
+<b>[IONet: Learning to Cure the Curse of Drift in Inertial Odometry](https://christopherlu.github.io/publications/ionet) <font color="#FF7F00">[ORAL]</font> </b><br>
 Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br>
 <i> AAAI Conference on Artificial Intelligence (AAAI), 2018 </i>
 
