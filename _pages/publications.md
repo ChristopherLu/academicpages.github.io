@@ -10,7 +10,7 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) </b><br>
+<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) <font color="#FF7F00">[ORAL] </b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
