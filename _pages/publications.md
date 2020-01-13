@@ -18,7 +18,7 @@ author_profile: true
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
-<b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) </b> <br>
+<b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) <font color="#FF7F00">[ORAL]</font> </b><br>
 Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni and Andrew Markham <br>
 <i> AAAI Conference on Artificial Intelligence (AAAI), 2020 </i>
 
@@ -26,13 +26,13 @@ Bing Wang, Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Peijun Zhao, Niki Trigoni 
 <b>Chris Xiaoxuan Lu</b>‚ Xuan Kan‚ Bowen Du‚ Changhao Chen‚ Hongkai Wen‚ Andrew Markham‚ Niki Trigoni and John Stankovic <br>
 <i> The Web Conference (WWW), 2019. </i>
 
-<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="#FF1493">[Best Paper Runner-up]</font>  </b> <br>
-Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni and Andrew Markham <br>
-<i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
-
 <b>[Selective Sensor Fusion for Neural Visual Inertial Odometry](https://christopherlu.github.io/publications/selection) </b> <br>
 Changhao Chen‚ Stefano Rosa‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Wei Wu, Andrew Markham and Niki Trigoni <br>
 <i> International Conference on Computer Vision and Pattern Recognition (CVPR), 2019. </i>
+
+<b>[mID: Tracking and Identifying People with Millimeter Wave Radar](https://christopherlu.github.io/publications/mid1) <font color="#FF1493">[Best Paper Runner-up]</font>  </b> <br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Jianan Wang, Changhao Chen, Wei Wang, Niki Trigoni and Andrew Markham <br>
+<i> International Conference on Distributed Computing in Sensor Systems (DCOSS), 2019. </i>
 
 <b>[MotionTransformer: Transferring Neural Inertial Tracking Between Domains](https://christopherlu.github.io/publications/motiontransformer)</b> <br>
 Changhao Chen‚ Yishu Miao‚ <b>Chris Xiaoxuan Lu</b>‚ Linhai Xie‚ Phil Blunsom‚ Andrew Markham and Niki Trigoni <br>
