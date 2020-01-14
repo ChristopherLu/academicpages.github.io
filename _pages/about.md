@@ -30,9 +30,9 @@ Recent News
 ======
 <!-- * I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020! -->
 
-* January, 2020. Papers were accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="##FF7F00">ORAL</font>) and [ICRA 2020](https://www.icra2020.org/) (<font color="#FF1493">fast tracked to RA-L</font>).
+* January, 2020. Papers were accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="#FF7F00">ORAL</font>) and [ICRA 2020](https://www.icra2020.org/) (<font color="#FF1493">Fast tracked to RA-L</font>). Stay tuned for the code and datasets!
 * December, 2019. Release the [source code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack on smartwatches.
-* November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/). Code is available [here](https://github.com/BingCS/AtLoc).
+* November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/BingCS/AtLoc).
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got <font color="#FF1493">best paper nominee</font> at [DCOSS 2019](https://www.dcoss.org/)
 * February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
