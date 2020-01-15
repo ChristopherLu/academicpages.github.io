@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) since Feb. 2020. Please drop me email if you want to work with me on Cyber-Physical Systems and Mobile Computing!**
+**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) since Feb. 2020. Please drop me email if you want to work with me on Autonomous Cyber-Physical Systems [CPS](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd)!**
 
 From Feb. 2019, I am a post-doctoral fellow at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
@@ -19,7 +19,7 @@ Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technol
 Research Interest
 ======
 
-Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** in the physical world. I look to design and implement intelligent systems that can reliably and securely work in the wild. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and *autonomous systems*, improving utility in data-sharing environments and performance of data-driven models for these systems. 
+Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** in the physical world. I look to design and implement intelligent systems that can reliably and securely work in the wild. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, improving utility in data-sharing environments and performance of data-driven models for these systems. 
 
 I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy and design novel methods at the boundaries of these areas.
 
