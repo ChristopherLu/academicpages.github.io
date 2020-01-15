@@ -72,6 +72,10 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andrew Markham and Niki Trigoni <br>
 <i> IEEE Transactions on Mobile Computing (TMC), 2020 </i>
 
+<b>[ Deep Learning based Pedestrian Inertial Navigation: Methods, Dataset and On-Device Inference](https://christopherlu.github.io/404)</b><br>
+Changhao Chen, Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Wei Wang, Andrew Markham and Niki Trigoni <br>
+<i> IEEE Internet of Things Journal (IoT-J), 2020 </i>
+
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> IEEE Robotics and Automation Letters (RA-L), 2020. </i>
