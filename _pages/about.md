@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) since Feb. 2020. Please drop me email if you want to work with me on Autonomous Cyber-Physical Systems [CPS](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd)!**
+**NEW: I will be starting as an Assistant Professor in the Department of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) since Feb. 2020. Please drop me email if you want to work with me on Autonomous Cyber-Physical Systems [(CPS)](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd)!**
 
 From Feb. 2019, I am a post-doctoral fellow at University of Oxford, working on EPSRC Programme Grant Project "Mobile Robotics: Enabling a Pervasive Technology of the Future", led by Prof. [Paul Newman](https://ori.ox.ac.uk/ori-people/paul-newman/), Prof. [Ingmar Posner](https://ori.ox.ac.uk/ori-people/ingmar-posner/), Prof. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/people/marta.kwiatkowska/) and Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/).
 
