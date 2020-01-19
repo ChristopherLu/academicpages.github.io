@@ -11,7 +11,7 @@ author_profile: true
 <br/> 
 
 <b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) <font color="#FF7F00">[ORAL]</font> </b><br>
-<b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli‚ Zhengxiong Li <br>
+<b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli and Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
