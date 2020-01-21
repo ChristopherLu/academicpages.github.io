@@ -10,11 +10,11 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/404) <font color="#FF7F00">[ORAL]</font> </b><br>
+<b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/publications/www20_nowhere) <font color="#FF7F00">[ORAL]</font> </b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli and Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
@@ -76,7 +76,7 @@ Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andr
 Changhao Chen, Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Wei Wang, Andrew Markham and Niki Trigoni <br>
 <i> IEEE Internet of Things Journal (IoT-J), 2020 </i>
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/404) </b> <br>
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> IEEE Robotics and Automation Letters (RA-L), 2020. </i>
 
