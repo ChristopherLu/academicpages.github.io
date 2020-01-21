@@ -5,7 +5,7 @@ permalink: /publications/ral20_deeptio
 date: 2020-04-20
 citation: 'Muhamad Saputra, Pedro Gusmão, <b>Xiaoxuan Lu</b>, Yasin Almalioglu and et al. <i>In ICRA/RA-L 2020.</i>'
 ---
-[[paper]](https://christopherlu.github.io/files/papers/[RAL20]deeptio.pdf)
+[[paper]](https://christopherlu.github.io/files/papers/[RAL2020]deeptio.pdf)
 [[video]](https://www.youtube.com/watch?v=Uw81ERThI-U&feature=youtu.be)
 
 ## Abstract
