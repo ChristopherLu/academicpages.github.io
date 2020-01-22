@@ -15,13 +15,12 @@ author_profile: true
 <i> The Web Conference (WWW), 2020. </i>
 
 <b>[Heart-Rate Sensing With a Robot Mounted mmWave Radar](https://christopherlu.github.io/404)</b><br>
-Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Chen, Mengyu Wang, Niki Trigoni and Andrew Markham <br>
+Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Chen, Linhai, Xie, Mengyu Wang, Niki Trigoni and Andrew Markham <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
-
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
 <b>[AtLoc: Attention Guided Camera Localization](https://christopherlu.github.io/publications/atloc) <font color="#FF7F00">[ORAL]</font> </b><br>
