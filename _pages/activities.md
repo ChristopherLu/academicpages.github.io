@@ -28,7 +28,7 @@ author_profile: true
 - Journal Reviewer
 	- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 	- IEEE Transactions on Mobile Computing (TMC)
-	- IEEE Transactions on Networking (TON)
+	- IEEE/ACM Transactions on Networking (TON)
 	- ACM Transactions on Sensor Networks (TOSN)
 	- IEEE Internet of Things Journal (IoT-J)
 	- ACM Transactions on Intelligent Systems and Technology 
