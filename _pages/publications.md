@@ -11,7 +11,7 @@ author_profile: true
 <br/> 
 
 <b>[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](https://christopherlu.github.io/404)</b><br>
-<b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John Stankovic, Niki Trigoni and Andrew Markham <br>
+<b>Chris Xiaoxuan Lu</b>‚ Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John Stankovic, Niki Trigoni and Andrew Markham <br>
 <i> ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), 2020. </i>
 
 <b>[Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices](https://christopherlu.github.io/publications/www20_nowhere) <font color="#FF7F00">[ORAL]</font> </b><br>
