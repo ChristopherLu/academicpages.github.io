@@ -8,6 +8,7 @@ author_profile: true
 - Program Committee Member
 	- [ACM WWW 2020](https://www2020.thewebconf.org/)
 	- [GPC 2020](https://www.gpc2020.cn/index.html)
+	- [International Workshop on Combining Physical and Data-Driven Knowledge @ UbiComp 2020](https://ubicomp-cpd.com/)
 	- [International Workshop on FAILSAFE @ EWSN 2020](https://wp.doc.ic.ac.uk/failsafe/)
 	- [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019)
 	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
@@ -20,10 +21,8 @@ author_profile: true
 
 
 - Conference Reviewer
-	- ACM UbiComp - 2019, 2020
-	- IJCAI - 2019
-	- ACM CHI - 2019
-	- IEEE ICC - 2019
+	- 2020: ACM UbiComp, IEEE/ASME AIM
+	- 2019: ACM UbiComp, ACM CHI, IEEE ICC, IJCAI
 
 - Journal Reviewer
 	- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
