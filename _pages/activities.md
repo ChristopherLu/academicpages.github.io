@@ -6,22 +6,12 @@ author_profile: true
 ---
 
 - Program Committee Member
-	- [ACM WWW 2020](https://www2020.thewebconf.org/)
-	- [GPC 2020](https://www.gpc2020.cn/index.html)
-	- [International Workshop on Combining Physical and Data-Driven Knowledge @ UbiComp 2020](https://ubicomp-cpd.com/)
-	- [International Workshop on FAILSAFE @ EWSN 2020](https://wp.doc.ic.ac.uk/failsafe/)
-	- [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019)
-	- [ACM EWSN 2019 - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/)
-	- [International Workshop on Deep Learning for HAR @ IJCAI 2019](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition)
-	- [International Workshop on DATA @ SenSys 2019](https://workshopdata.github.io/DATA2019/)
-	- [Ph.D Forum @ MobiSys 2019](http://soar.group/mobisys19risingstarsforum/#)
-	- [International Workshop on Continual Machine Learning for IoT @ UbiComp 2019](https://cmliot2019.github.io/)
-	- [International Workshop on Device-Free Human Sensing @ BuildSys 2019](https://dfhs-buildsys.github.io/dfhs2019/)
-	- [International Workshop on Combining Physical and Data-Driven Knowledge @ UbiComp 2019](https://ubicomp-cpd.com/)
+	- 2020: [WWW](https://www2020.thewebconf.org/), [GPC](https://www.gpc2020.cn/index.html),[CPD @UbiComp](https://ubicomp-cpd.com/), [FAILSAFE @EWSN](https://wp.doc.ic.ac.uk/failsafe/)
+	- 2019: [ACM IMC 2019 (Shadow)](https://conferences.sigcomm.org/imc/2019), [EWSN-Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/), [HAR @IJCAI](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition), [DATA @SenSys](https://workshopdata.github.io/DATA2019/), [Ph.D Forum @MobiSys](http://soar.group/mobisys19risingstarsforum/#), [CMIoT @UbiComp](https://cmliot2019.github.io/), [DFHS @BuildSys](https://dfhs-buildsys.github.io/dfhs2019/), [CPD @UbiComp 2019](https://ubicomp-cpd.com/)
 
 
 - Conference Reviewer
-	- 2020: ACM UbiComp, IEEE/ASME AIM
+	- 2020: ACM UbiComp, IEEE/ASME AIM, 
 	- 2019: ACM UbiComp, ACM CHI, IEEE ICC, IJCAI
 
 - Journal Reviewer
