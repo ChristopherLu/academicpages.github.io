@@ -28,8 +28,9 @@ author_profile: true
 	- Springer Autonomous Robots
 	- MDPI Sensors
 
-- Session Chair
-	- [DATA Workshop @ SenSys 2018](https://workshopdata.github.io/DATA2018/)
+- Organization Committee Member
+	- 2020: [BuildSys](http://buildsys.acm.org/2020/) Publicity Co-chair
+	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) Session Chair
 	
 - Membership
 	- ACM SIGMOBILE
