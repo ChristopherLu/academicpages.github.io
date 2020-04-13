@@ -14,7 +14,12 @@ author_profile: true
 
 - IoT Data Analytics
 	- International World Wide Web Conference ([WWW](http://portal.core.edu.au/conf-ranks/1548/))
+	- ACM International Conference on Knowledge Discovery and Data Mining ([KDD](http://portal.core.edu.au/conf-ranks/26/))
 	- ACM/IEEE International Conference on Information Processing in Sensor Networks ([IPSN](http://portal.core.edu.au/conf-ranks/823/))
+
+- Robotics
+	- Robotics: Systems and Science ([RSS](http://portal.core.edu.au/conf-ranks/1709/))
+	- IEEE International Conference on Robotics and Automation ([ICRA](http://portal.core.edu.au/conf-ranks/2051/))
 	
 - Security & Privacy
 	- IEEE Symposium on Security and Privacy ([S&P](http://portal.core.edu.au/conf-ranks/750/))
