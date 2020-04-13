@@ -18,7 +18,7 @@ author_profile: true
 <b>Chris Xiaoxuan Lu</b>‚ Yang Li, Yuanbo Xiangli and Zhengxiong Li <br>
 <i> The Web Conference (WWW), 2020. </i>
 
-<b>[Heart-Rate Sensing With a Robot Mounted mmWave Radar](https://christopherlu.github.io/404)</b><br>
+<b>[Heart-Rate Sensing With a Robot Mounted mmWave Radar](https://christopherlu.github.io/publications/icra20_mbeats)</b><br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Chen, Linhai Xie, Mengyu Wang, Niki Trigoni and Andrew Markham <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 

@@ -38,5 +38,6 @@ author_profile: true
  - How to attend conference alone (by Yuanyuan Zhou) [[Link](https://whova.com/blog/7-tips-for-attending-a-conference-alone-and-having-a-good-time-blog/)]
  - How to land a faculty position (by Robert LiKamWa) [[Link](http://roblkw.com/papers/landing_a_faculty_position-roblkw.pdf)]
  - Faculty job application materials (by Philip Guo) [[Link](http://pgbovine.net/faculty-job-application-materials.htm)]
+ - How to maximize the impact of your research (by Derek Hoiem) [[Link]](https://medium.com/vision-of-seeing/how-to-maximize-the-impact-of-your-research-f431d3c67e8d)
 
 
