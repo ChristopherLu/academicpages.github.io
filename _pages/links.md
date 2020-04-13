@@ -26,10 +26,9 @@ author_profile: true
 	- ACM Conference on Computer and Communication Security ([CCS](http://portal.core.edu.au/conf-ranks/12/))
 	- USENIX Security Symposium ([Security](http://portal.core.edu.au/conf-ranks/1841/))
 
-- Ubiquitous Computing & HCI
+- Ubiquitous Computing & HCI (Hardcore)
 	- ACM International Joint Conference on Pervasive and Ubiquitous Computing ([UbiComp](http://portal.core.edu.au/conf-ranks/1825/))
 	- ACM International Symposium on Wearable Computing ([ISWC](http://portal.core.edu.au/conf-ranks/708/))
-	- ACM International Conference on Human Factors in Computing Systems ([CHI](http://portal.core.edu.au/conf-ranks/1053/))
 	- ACM Symposium on User Interface Software and Technology ([UIST](http://portal.core.edu.au/conf-ranks/66/))
 
 
