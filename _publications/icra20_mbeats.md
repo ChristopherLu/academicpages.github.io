@@ -5,7 +5,8 @@ permalink: /publications/icra20_mbeats
 date: 2020-05-31
 citation: 'Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Chen, Linhai Xie, Mengyu Wang, Niki Trigoni and Andrew Markham. <i>In ICRA 2020.</i>'
 ---
-[[Paper]](https://christopherlu.github.io/files/papers/[ICRA2020]mbeats.pdf)
+[[paper]](https://christopherlu.github.io/files/papers/[ICRA2020]mbeats.pdf)
+[[video]](https://youtu.be/L8lLnR8RTW8)
 
 ## Abstract
 Heart rate monitoring at home is a useful metric for assessing health e.g. of the elderly or patients in post-operative recovery. Although non-contact heart rate monitoring has been widely explored, typically using a static, wall-mounted device, measurements are limited to a single room and sensitive to user orientation and position.

@@ -6,7 +6,7 @@ date: 2018-10-30
 citation: '<b>Xiaoxuan Lu</b>, Yang Li, Peijun Zhao, Changhao Chen, Lihai Xie, Hongkai Wen, Rui Tan and Niki Trigoni. <i>In MobiCom 2018.</i>'
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[MobiCom2018]emr_slam.pdf)
-[[demo]](https://youtu.be/w8ymBG7T7TQ)
+[[video]](https://youtu.be/w8ymBG7T7TQ)
 
 ## Abstract
 Various sensing modalities have been exploited for indoor location sensing, each of which has well understood limitations. This paper presents a first systematic study on using the electromagnetic field (EMF) induced by a building’s electric power network for simultaneous localization and mapping (SLAM). A basis of this work is a measurement
