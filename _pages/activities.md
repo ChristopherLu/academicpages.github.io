@@ -29,8 +29,8 @@ author_profile: true
 	- MDPI Sensors
 
 - Organization Committee Member
-	- 2020: [BuildSys](http://buildsys.acm.org/2020/) Publicity Co-chair, [WWW](https://www2020.thewebconf.org/) Session Chair
-	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) Session Chair
+	- 2020: [BuildSys](http://buildsys.acm.org/2020/) - Publicity Chair, [WWW](https://www2020.thewebconf.org/) - Session Chair
+	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) - Session Chair
 	
 - Membership
 	- ACM SIGMOBILE
