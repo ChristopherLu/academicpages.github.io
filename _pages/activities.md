@@ -11,7 +11,7 @@ author_profile: true
 
 
 - Conference Reviewer
-	- 2020: ACM UbiComp, IEEE/ASME AIM 
+	- 2020: ACM UbiComp, IEEE/ASME AIM, IEEE CASE 
 	- 2019: ACM UbiComp, ACM CHI, IEEE ICC, IJCAI
 
 - Journal Reviewer
@@ -29,7 +29,7 @@ author_profile: true
 	- MDPI Sensors
 
 - Organization Committee Member
-	- 2020: [BuildSys](http://buildsys.acm.org/2020/) Publicity Co-chair
+	- 2020: [BuildSys](http://buildsys.acm.org/2020/) Publicity Co-chair, [WWW](https://www2020.thewebconf.org/) Session Chair
 	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) Session Chair
 	
 - Membership
