@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I'm looking for highly-motivated PhD students working on Autonomous Cyber-Physical Systems [(CPS)](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd). Drop me an email if you are interested. Please include a CV to help me understand your background.**
+**NEW: I'm looking for highly-motivated students (both undergrad and graduate) working on Autonomous Cyber-Physical Systems [(CPS)](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd). Drop me an email if you are interested. Please include a CV to help me understand your background.**
 
 
 I am an Assistant Professor of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My PhD study was generously funded by Google DeepMind. Prior to Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
@@ -21,7 +21,16 @@ I am an Assistant Professor of Computer Science at [University of Liverpool](htt
 Prior to joining Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
  -->
 
-Research Interest
+Research Interests
+======
+
+1. Artificial Intelligence of Things
+2. Mobile Robotics
+3. Cyber-Physical Systems Security
+4. Augmented Reality / Mixed Reality
+5. Wireless Sensor Networks
+
+Research Vision
 ======
 
 Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** in the physical world. I look to design and implement intelligent systems that can reliably and securely work in the wild. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, improving utility in data-sharing environments and performance of data-driven models for these systems. 
