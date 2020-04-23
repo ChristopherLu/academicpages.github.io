@@ -28,7 +28,7 @@ Research Interests
 2. Mobile Robotics
 3. Cyber-Physical Systems Security
 4. Augmented Reality / Mixed Reality
-5. Wireless Sensor Networks
+5. Edge Computing
 
 Research Vision
 ======
