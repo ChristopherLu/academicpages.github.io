@@ -35,6 +35,7 @@ I argue for a **holistic** approach by leveraging tactics from wireless systems,
 Recent News
 ======
 <!-- * I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020! -->
+* April, 2020. Selected [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html).
 * March, 2020. One [paper](https://christopherlu.github.io/404) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code will be available soon!
 * January, 2020. One [paper](https://christopherlu.github.io/publications/www20_nowhere) was accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/zjzsliyang/CrossLeak)
 * January, 2020. Two papers were accepted to [ICRA 2020](https://www.icra2020.org/), with [DeepTIO](https://christopherlu.github.io/publications/ral20_deeptio) fast tracked to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
