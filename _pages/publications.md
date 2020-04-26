@@ -10,7 +10,7 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](https://christopherlu.github.io/404)</b><br>
+<b>[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](https://christopherlu.github.io/publications/millimap)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John Stankovic, Niki Trigoni and Andrew Markham <br>
 <i> ACM Conference on Mobile Systems, Applications, and Services (MobiSys), 2020. </i>
 
