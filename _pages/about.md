@@ -20,7 +20,7 @@ Research Interests
 2. Mobile Robotics
 3. Augmented Reality / Mixed Reality
 4. Security and Privacy
-5. Sensor and Actuator Networks
+5. Applied Machine Learning
 
 Research Vision
 ======
