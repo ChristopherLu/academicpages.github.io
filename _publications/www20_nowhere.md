@@ -14,3 +14,7 @@ While the exposure of a certain type of physical biometrics or device identity i
 In this work, we explore the feasibility of the compound identity leakage across cyber-physical spaces and unveil that co-located smart device IDs (e.g., smartphone MAC addresses) and physical biometrics (e.g., facial/vocal samples) are side channels to each other. 
 It is demonstrated that our method is robust to various observation noise in the wild and an attacker can comprehensively profile victims in multi-dimension with nearly zero analysis effort.
 Two real-world experiments on different biometrics and device IDs show that the presented approach can compromise more than 70% of device IDs and harvests multiple biometric clusters with ~94% purity at the same time. 
+
+## Media Coverage
+
+[The Hacker News](https://thehackernews.com/2020/04/deanonymize-device-biometrics.html), [Sputnik Internationall](https://sputniknews.com/science/202004281079122299-hackers-can-steal-data-locate-victims-via-iot-devices-using-your-voice-face-and-device-id-study/), [Mirage News](https://www.miragenews.com/new-privacy-threat-combines-device-identification-with-biometric-information/)
