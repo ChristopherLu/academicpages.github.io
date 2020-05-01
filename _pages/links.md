@@ -43,5 +43,6 @@ author_profile: true
  - How to land a faculty position (by Robert LiKamWa) [[Link](http://roblkw.com/papers/landing_a_faculty_position-roblkw.pdf)]
  - Faculty job application materials (by Philip Guo) [[Link](http://pgbovine.net/faculty-job-application-materials.htm)]
  - How to maximize the impact of your research (by Derek Hoiem) [[Link]](https://medium.com/vision-of-seeing/how-to-maximize-the-impact-of-your-research-f431d3c67e8d)
+ - How to Have Real-World Impact: Five Easy Pieces (by Emery Berger) [[Link]](https://blog.sigplan.org/2019/10/29/how-to-have-real-world-impact-five-easy-pieces/)
 
 
