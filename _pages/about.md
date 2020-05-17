@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I'm looking for highly-motivated students (both undergrad and graduate) working on Autonomous Cyber-Physical Systems [(CPS)](https://ptolemy.berkeley.edu/projects/cps/) and/or Artificial Intelligence of Things [(AIoT)](https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/#659d1501b1fd). Drop me an email if you are interested. Please include a CV to help me understand your background.**
+**NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the University of Edinburgh in September 2020. I am looking for PhD students (Home/EU/Overseas) to build Robotics, Autonomous and/or Cyber-physical Systems with me. Drop me an email if you are interested. Please include a CV to help me understand your background.**
 
 I am an Assistant Professor of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
 Prior to Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
@@ -34,7 +34,7 @@ I argue for a **holistic** approach by leveraging tactics from wireless systems,
 
 Recent News
 ======
-<!-- * I will be starting as an Assistant Professor at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/) from March 2020! -->
+* I will be starting as an Assistant Professor at [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) from September 2020.
 * April, 2020. Our research work on "Cross-modal ID leakage between device and user biometrics" (WWW'2020) receives tremendous attentions from high-impact public media outlets over the world. Check it out [here](https://christopherlu.github.io/publications/www20_nowhere).
 * April, 2020. Honored to be selected as [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html)! 
 * March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code will be available soon!
