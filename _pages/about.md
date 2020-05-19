@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the University of Edinburgh in September 2020. I am looking for PhD students (Home/EU/Overseas) to build Robotics, Autonomous and/or Cyber-physical Systems with me. Drop me an email if you are interested. Please include a CV to help me understand your background.**
+**NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in September 2020. I am looking for PhD students (Home/EU/Overseas) to build Robotics, Autonomous and/or Cyber-physical Systems with me. Drop me an email if you are interested. Please include a CV to help me understand your background.**
 
 I am an Assistant Professor of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
 Prior to Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
@@ -34,12 +34,12 @@ I argue for a **holistic** approach by leveraging tactics from wireless systems,
 
 Recent News
 ======
-* I will be starting as an Assistant Professor at [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) from September 2020.
+* I will be starting as an Assistant Professor at [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) from September 2020. 
 * April, 2020. Our research work on "Cross-modal ID leakage between device and user biometrics" (WWW'2020) receives tremendous attentions from high-impact public media outlets over the world. Check it out [here](https://christopherlu.github.io/publications/www20_nowhere).
 * April, 2020. Honored to be selected as [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html)! 
 * March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code will be available soon!
 * January, 2020. One [paper](https://christopherlu.github.io/publications/www20_nowhere) was accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/zjzsliyang/CrossLeak)
-* January, 2020. Two papers were accepted to [ICRA 2020](https://www.icra2020.org/), with [DeepTIO](https://christopherlu.github.io/publications/ral20_deeptio) fast tracked to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
+* January, 2020. Two papers were accepted to [ICRA 2020](https://www.icra2020.org/), with [code](https://github.com/zhaoymn/mbeats) release.
 * December, 2019. Release the [source code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack on smartwatches.
 * November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/BingCS/AtLoc).
 * October, 2019. Invited to serve as TPC for WWW'20.
