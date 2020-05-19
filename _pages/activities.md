@@ -14,6 +14,9 @@ author_profile: true
 	- 2020: ACM UbiComp, IEEE/ASME AIM, IEEE CASE 
 	- 2019: ACM UbiComp, ACM CHI, IEEE ICC, IJCAI
 
+- Editorship
+	- Review Editor, [Frontier in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks#)
+
 - Journal Reviewer
 	- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 	- IEEE Transactions on Mobile Computing (TMC)
@@ -28,10 +31,7 @@ author_profile: true
 	- Springer Autonomous Robots
 	- MDPI Sensors
 
-- Organization Committee Member
+- Conference Chairs
 	- 2020: [BuildSys](http://buildsys.acm.org/2020/) - Publicity Chair, [WWW](https://www2020.thewebconf.org/) - Session Chair
 	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) - Session Chair
 	
-- Membership
-	- ACM SIGMOBILE
-	- ACM SIGCHI
