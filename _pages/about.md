@@ -36,10 +36,10 @@ Recent News
 ======
 * April, 2020. Our research work on "Cross-modal ID leakage between device and user biometrics" (WWW'2020) receives tremendous attentions from high-impact public media outlets over the world. Check it out [here](https://christopherlu.github.io/publications/www20_nowhere).
 * April, 2020. Honored to be selected as [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html)! 
-* March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code will be available soon!
-* January, 2020. One [paper](https://christopherlu.github.io/publications/www20_nowhere) was accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/zjzsliyang/CrossLeak)
+* March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code is available [here](https://github.com/ChristopherLu/milliMap).
+* January, 2020. One [paper](https://christopherlu.github.io/publications/www20_nowhere) was accepted to [WWW 2020](https://www2020.thewebconf.org/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/zjzsliyang/CrossLeak).
 * January, 2020. Two papers were accepted to [ICRA 2020](https://www.icra2020.org/). Code is available [here](https://github.com/zhaoymn/mbeats).
-* December, 2019. After rounds of ethics review, we release the [code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack on smartwatches.
+* December, 2019. After several rounds of ethics review, we release the [code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack on smartwatches, published at UbiComp'2018.
 * November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/BingCS/AtLoc).
 * October, 2019. Invited to serve as TPC for WWW'20.
 * May, 2019. [mID](https://christopherlu.github.io/publications/mid1) got <font color="#FF1493">best paper nominee</font> at [DCOSS 2019](https://www.dcoss.org/)
