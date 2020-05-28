@@ -6,7 +6,7 @@ date: 2016-02-01
 citation: 'Han Zou‚ Baoqi Huang‚ <b>Chris Xiaoxuan Lu</b>‚ Hao Jiang and Lihua Xie. <br>
 <i>In IEEE Transactions on Wireless Communications (TWC), 2016.</i>'
 ---
-[[Paper]](https://christopherlu.github.io/files/papers/tc16.pdf)
+[[Paper]](https://christopherlu.github.io/files/papers/twc16.pdf)
 
 ## Abstract
 Indoor positioning system (IPS) has become one of

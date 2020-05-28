@@ -1,5 +1,5 @@
 ---
-title: "Semantic Place Understanding for Human−Robot Coexistence − Towards Intelligent Workplaces"
+title: "Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sensor Data"
 collection: publications
 permalink: /publications/iot-j19
 date: 2019-06-21
