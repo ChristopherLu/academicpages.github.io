@@ -19,10 +19,10 @@ Research
 Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** to interact with the physical environment. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, increasing their reliability, intelligence and security in the wild. 
 I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy and design novel methods at the boundaries of these areas. 
 
-More recently, my particular research interests lie in solving the following problems for two MR systems -  Mobile Robotics and Mixed Reality:
+More recently, my research interests lie in the following topics specifically around two MR systems -  Mobile Robotics and Mixed Reality:
 
-1. SLAM under low-visibility conditions (e.g., disaster-response robots).
-2. Human-Robot interaction for safe mixed reality (e.g. construction sites).
+1. Robust SLAM under low-visibility conditions (e.g., disaster-response robots).
+2. Safe Human-Robot collaboration via mixed reality (e.g. construction sites).
 3. Trusted computing for miniature systems (e.g., tiny IoTs devices).
 4. Physical-aware Neural Sensor Fusion (e.g., sensor calibration without pain).
 
