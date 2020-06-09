@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in September 2020. I am looking for International PhD students to study Mobile Robotics and Mixed Reality and with me. Drop me an email if you are interested. Please include a CV to help me understand your background.**
+**NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in September 2020. I am looking for students (including postdocs, PhDs, Masters, undergraduates) and visitors to join my group. Drop me an email if you are interested. Please include a CV to help me understand your background. Due to COVID-19, I am happy to work remotely with prospective students and visitors.**
 
 I am an Assistant Professor of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
 Prior to Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
@@ -17,7 +17,6 @@ Research
 ======
 
 Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** to interact with the physical environment. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, increasing their reliability, intelligence and security in the wild. 
-
 I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy and design novel methods at the boundaries of these areas. 
 
 More recently, my particular research interests lies in solving the following problems for two MR systems -  Mobile Robotics and Mixed Reality:
@@ -32,9 +31,6 @@ More recently, my particular research interests lies in solving the following pr
 3. Augmented Reality / Mixed Reality
 4. Security and Privacy
 5. Applied Machine Learning -->
-
-<!-- my research aims to enable pervasive, autonomous and trustworth cyber physical systems (aka. Internet of Things) in the wild. To this end, I develop **multi-modal and cross-modal solutions** leveraging techniques from wireless sensing, machine learning and robotics. -->
-
 
 Recent News
 ======
