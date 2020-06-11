@@ -23,7 +23,7 @@ More recently, my research interests lie in the following topics specifically ar
 
 1. Robust SLAM under low-visibility conditions (e.g., disaster-response robots).
 2. Safe Human-Robot collaboration via mixed reality (e.g. construction sites).
-3. Trusted computing for miniature systems (e.g., tiny IoTs devices).
+3. Trusted computing for networked miniature systems (e.g., IoTs and drones).
 4. Physical-aware Neural Sensor Fusion (e.g., sensor calibration without pain).
 
 <!-- 1. Spatial perception under low-visibility
