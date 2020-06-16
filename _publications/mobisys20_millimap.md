@@ -6,7 +6,9 @@ date: 2019-06-15
 citation: '<b>Chris Xiaoxuan Lu</b>, Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John A. Stankovic, Niki Trigoni and Andrew Markham. <i>In MobiSys 2020.</i>'
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[MobiSys2020]milliMap.pdf)
-[[demo]](https://youtu.be/VnxS-jsr4vk)
+[[talk video]](https://www.youtube.com/watch?v=uPVJu1mCTYc&t=4s)
+<!-- [[demo]](https://youtu.be/VnxS-jsr4vk) -->
+[[slide]](https://christopherlu.github.io/files/slides/mobisys20_slide.pdf))
 [[code]](https://github.com/ChristopherLu/milliMap)
 
 ## Abstract
