@@ -8,7 +8,7 @@ citation: '<b>Chris Xiaoxuan Lu</b>, Stefano Rosa, Peijun Zhao, Bing Wang, Chang
 [[paper]](https://christopherlu.github.io/files/papers/[MobiSys2020]milliMap.pdf)
 [[talk video]](https://www.youtube.com/watch?v=uPVJu1mCTYc&t=4s)
 <!-- [[demo]](https://youtu.be/VnxS-jsr4vk) -->
-[[slide]](https://christopherlu.github.io/files/slides/mobisys20_slide.pdf))
+[[slide]](https://christopherlu.github.io/files/slides/mobisys20_slide.pdf)
 [[code]](https://github.com/ChristopherLu/milliMap)
 
 ## Abstract
