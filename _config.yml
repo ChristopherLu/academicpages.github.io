@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Xiaoxuan Lu (卢晓轩)"
 title_separator          : "-"
 name                     : &name "Chris Xiaoxuan Lu"
-description              : &description "Assistant Prof. @ University of Liverpool"
+description              : &description "Assistant Prof. @ University of Edinburgh"
 url                      : https://christopherlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christopherlu.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Chris Xiaoxuan Lu"
   avatar           : "profile_me.png"
-  bio              : "Assistant Professor in Cyber-Physical Systems @ Liverpool University."
-  location         : "Oxford, UK"
+  bio              : "Assistant Professor in Cyber-Physical Systems @ University of Edinburgh."
+  location         : "Edinburgh, UK"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=idu78-EAAAAJ&hl=en"
-  email            : "xiaoxuan.lu@cs.ox.ac.uk"
+  email            : "luxiaoxuan555@hotmail.com"
   uri              : 
   bitbucket        :
   codepen          :
