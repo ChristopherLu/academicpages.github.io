@@ -23,7 +23,7 @@ I argue for a **holistic** approach by leveraging tactics from wireless systems,
 
 More recently, my research thrusts lie in the following topics specifically around two MR systems -  **Mobile Robotics** and **Mixed Reality**:
 
-1. Robust SLAM under visual degradation (e.g., darkness, fog, smoke or scarce features).
+1. Robust SLAM under visual degradation (e.g., darkness, fog, smoke or scarce visual cues).
 2. Safe Human-Robot collaboration via mixed reality (e.g. smart construction sites).
 3. Trusted computing for networked miniature systems (e.g., IoTs and drones).
 4. Physical-aware Neural Sensor Fusion (e.g., sensor calibration without pain).
