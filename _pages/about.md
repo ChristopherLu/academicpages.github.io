@@ -13,7 +13,7 @@ redirect_from:
 **I am looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research), undergraduates) and visitors working on the intersection between IoT, AI and robotics to join my group. Drop me an email with your CV if you are interested.** 
 
 I am an Assistant Professor of Computer Science at [University of Liverpool](https://www.liverpool.ac.uk/computer-science/). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
-Prior to Oxford, I received my MEng degree in 2015 from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx) (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
+Prior to Oxford, I received my MEng degree in 2015 from Nanyang Technological University (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
 
 Research
 ======
@@ -23,7 +23,7 @@ I argue for a **holistic** approach by leveraging tactics from wireless systems,
 
 More recently, my research thrusts lie in the following topics specifically around two MR systems -  **Mobile Robotics** and **Mixed Reality**:
 
-1. Robust SLAM under low-visibility conditions (e.g., fog, smoke or tiny objects).
+1. Robust SLAM under visual degradation (e.g., darkness, fog, smoke or scarce features).
 2. Safe Human-Robot collaboration via mixed reality (e.g. smart construction sites).
 3. Trusted computing for networked miniature systems (e.g., IoTs and drones).
 4. Physical-aware Neural Sensor Fusion (e.g., sensor calibration without pain).
