@@ -36,6 +36,7 @@ author_profile: true
 
  - How to have a bad career in research/academia (by David Patterson) [[Link](https://www.youtube.com/watch?v=Rn1w4MRHIhc)]
  - Advice on Research and Writing [[Link](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)]
+ - How to write a bad article (by Fredo Durand) [[Link]](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
  - How to give a great research talk (by Simon Peyton Jones, John Launchbury and John Hughes) [[Link](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)]
  - Tips about writing systems papers (by Lin Zhong) [[Link](https://www.ruf.rice.edu/~mobile/writing.html)]
  - How to write a great research proposal (by Simon Peyton Jones and Alan Bundy) [[Link](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)]
@@ -44,5 +45,6 @@ author_profile: true
  - Faculty job application materials (by Philip Guo) [[Link](http://pgbovine.net/faculty-job-application-materials.htm)]
  - How to maximize the impact of your research (by Derek Hoiem) [[Link]](https://medium.com/vision-of-seeing/how-to-maximize-the-impact-of-your-research-f431d3c67e8d)
  - How to Have Real-World Impact: Five Easy Pieces (by Emery Berger) [[Link]](https://blog.sigplan.org/2019/10/29/how-to-have-real-world-impact-five-easy-pieces/)
+
 
 
