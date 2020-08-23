@@ -25,7 +25,7 @@ More recently, my research thrusts lie in the following topics specifically arou
 
 1. Robust SLAM under visual degradation (e.g., darkness, fog, smoke or scarce visual cues).
 2. Safe Human-Robot collaboration via mixed reality (e.g. smart construction sites).
-3. Trusted sensing and perception for mobile platforms (e.g., driverless cars).
+3. Trusted localization and perception on mobile platforms (e.g., driverless cars).
 4. Physical-aware neural sensor fusion (e.g., sensor calibration without pain).
 
 Recent News
