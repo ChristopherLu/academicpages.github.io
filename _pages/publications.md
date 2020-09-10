@@ -23,7 +23,7 @@ Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Che
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) <font color="#FF1493">[Fast Tracked to RA-L]</font> </b> <br>
+<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) <font color="#FF1493">[RA-L Track]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
 
