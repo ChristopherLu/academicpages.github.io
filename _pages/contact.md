@@ -4,6 +4,7 @@ title: ""
 permalink: /contact/
 author_profile: true
 ---
-Department of Computer Science, University of Oxford<br>
-Wolfson Building, Parks Road, OXFORD, OX1 3QD<br>
-Email: xiaoxuan.lu [at] cs.ox.ac.uk
+
+School of Informatics, University of Edinburgh<br>
+Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB<br>
+Email: xiaoxuan.lu [at] ed.ac.uk
