@@ -10,7 +10,7 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/404)</b><br>
+<b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/404)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Muhamad Saputra, Peijun Zhao, Yasin Almalioglu, Pedro Gusmão, Changhao Chen, Ke Sun, Niki Trigoni and Andrew Markham. <br>
 <i> ACM Conference on Embedded Networked Sensor Systems (SenSys), 2020, to appear. </i>
 
