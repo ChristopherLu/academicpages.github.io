@@ -10,6 +10,10 @@ author_profile: true
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
+<b>[milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/404)</b><br>
+<b>Chris Xiaoxuan Lu</b>‚ Muhamad Saputra, Peijun Zhao, Yasin Almalioglu, Pedro Gusmão, Changhao Chen, Ke Sun, Niki Trigoni and Andrew Markham. <br>
+<i> ACM Conference on Embedded Networked Sensor Systems (SenSys), 2020, to appear. </i>
+
 <b>[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](https://christopherlu.github.io/publications/millimap)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John Stankovic, Niki Trigoni and Andrew Markham <br>
 <i> ACM Conference on Mobile Systems, Applications, and Services (MobiSys), 2020. </i>
