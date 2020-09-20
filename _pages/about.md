@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- **NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in fall 2020.**   -->
 
-**I am looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research), undergraduates) and visitors working on the intersection between IoT, AI and Robotics to join my group. Drop me an email with your CV if you are interested.** 
+**I am looking for students (fully-funded [PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) and visitors working on IoT and Robotics to join my group. Drop me an email with your CV if you are interested.** 
 
 I am an Assistant Professor in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
 Prior to Oxford, I received my MEng degree in 2015 from Nanyang Technological University (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
