@@ -7,10 +7,25 @@ author_profile: true
 ---
 ---
 
+<font size="6" color="orange">Preprints</font>
+<br/> 
+
+<b>[A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence](https://github.com/changhao-chen/deep-learning-localization-mapping)</b><br>
+Changhao Chen, Bing Wang, <b>Chris Xiaoxuan Lu</b>‚ Niki Trigoni and Andrew Markham <br>
+<i> arXiv:2006.12567 </i>
+
+
+<b>[DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction](https://arxiv.org/pdf/1908.03918.pdf)</b><br>
+Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Bing Wang, Niki Trigoni and Andrew Markham <br>
+<i> arXiv:1908.03918 </i>
+
+---
+---
+
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/404)</b><br>
+<b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://arxiv.org/abs/2006.02266)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Muhamad Saputra, Peijun Zhao, Yasin Almalioglu, Pedro Gusmão, Changhao Chen, Ke Sun, Niki Trigoni and Andrew Markham. <br>
 <i> ACM Conference on Embedded Networked Sensor Systems (SenSys), 2020, to appear. </i>
 
@@ -25,7 +40,6 @@ author_profile: true
 <b>[Heart-Rate Sensing With a Robot Mounted mmWave Radar](https://christopherlu.github.io/publications/icra20_mbeats)</b><br>
 Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Bing Wang, Changhao Chen, Linhai Xie, Mengyu Wang, Niki Trigoni and Andrew Markham <br>
 <i> International Conference on Robotics and Automation (ICRA), 2020. </i>
-
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://christopherlu.github.io/publications/ral20_deeptio) <font color="#FF1493">[RA-L Track]</font> </b> <br>
 Muhamad Saputra, Pedro Gusmão, <b>Chris Xiaoxuan Lu</b>‚ Yasin Almalioglu and et al. <br>
