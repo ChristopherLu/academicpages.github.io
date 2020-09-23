@@ -3,7 +3,7 @@ title: "Autonomous Learning of Speaker Identity and WiFi Geofence from Noisy Sen
 collection: publications
 permalink: /publications/iot-j20
 date: 202O-06-21
-citation: 'Changhao Chen, Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Wei Wang, Andrew Markham and Niki Trigoni <br>. <i>In IEEE Internet of Things Journal (IoT-J) 2020.</i>'
+citation: 'Changhao Chen, Peijun Zhao, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Wei Wang, Andrew Markham and Niki Trigoni. <i>In IEEE Internet of Things Journal (IoT-J) 2020.</i>'
 ---
 [[Paper]](https://christopherlu.github.io/files/papers/iot-j20.pdf)
 
