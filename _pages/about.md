@@ -30,6 +30,7 @@ More recently, my research thrusts lie in the following topics specifically arou
 
 Recent News
 ======
+* October, 2020. One [paper](https://arxiv.org/abs/2006.02266) was accepted to [SenSys 2020](http://sensys.acm.org/2020/). Stay tuned for the code and dataset release!
 * April, 2020. Our research work on "Cross-modal ID leakage between device and user biometrics" (WWW'2020) receives tremendous attentions from high-impact public media outlets over the world. Check it out [here](https://christopherlu.github.io/publications/www20_nowhere).
 * April, 2020. Honored to be selected as [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html)! 
 * March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code is available [here](https://github.com/ChristopherLu/milliMap).
