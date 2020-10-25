@@ -25,9 +25,9 @@ Changhao Chen, <b>Chris Xiaoxuan Lu</b>‚ Bing Wang, Niki Trigoni and Andrew Ma
 <font size="6" color="green">Conference Papers</font>
 <br/> 
 
-<b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://arxiv.org/abs/2006.02266)</b><br>
+<b>[Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://christopherlu.github.io/publications/milliego)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Muhamad Saputra, Peijun Zhao, Yasin Almalioglu, Pedro Gusmão, Changhao Chen, Ke Sun, Niki Trigoni and Andrew Markham. <br>
-<i> ACM Conference on Embedded Networked Sensor Systems (SenSys), 2020, to appear. </i>
+<i> ACM Conference on Embedded Networked Sensor Systems (SenSys), 2020. </i>
 
 <b>[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](https://christopherlu.github.io/publications/millimap)</b><br>
 <b>Chris Xiaoxuan Lu</b>‚ Stefano Rosa, Peijun Zhao, Bing Wang, Changhao Chen, John Stankovic, Niki Trigoni and Andrew Markham <br>
@@ -94,6 +94,10 @@ Changhao Chen‚ <b>Chris Xiaoxuan Lu</b>‚ Andrew Markham and Niki Trigoni <br
 
 <font size="6" color="red">Journal Papers</font>
 <br/> 
+
+<b>[Milli-RIO: Ego-Motion Estimation with Low-Cost Millimetre-Wave Radar](https://ieeexplore.ieee.org/document/9193901)</b> <br>
+Yasin Almalioglu, Mehmet Turan, <b>Chris Xiaoxuan Lu</b>, Niki Trigoni, Andrew Markham <br>
+<i> IEEE Sensors Journal, 2020 </i>
 
 <b>[Deep Neural Network Based Inertial Odometry Using Low-cost Inertial Measurement Units](https://christopherlu.github.io/publications/tmc20-ionet)</b> <br>
 Changhao Chen, <b>Chris Xiaoxuan Lu<sup>&#42;</sup></b>‚ Johan Wahlstrom, Andrew Markham and Niki Trigoni <br>
