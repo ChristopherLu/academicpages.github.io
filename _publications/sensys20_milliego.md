@@ -7,7 +7,7 @@ citation: '<b>Chris Xiaoxuan Lu</b>, Muhamad Risqi U. Saputra, Peijun Zhao, Yasi
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[SenSys2020]milliEgo.pdf)
 <!-- [[talk video]](https://www.youtube.com/watch?v=uPVJu1mCTYc&t=4s) -->
-<!-- [[demo]](https://youtu.be/VnxS-jsr4vk) -->
+[[teaser video]](https://youtu.be/I9vjoKGY2ts)
 <!-- [[slide]](https://christopherlu.github.io/files/slides/mobisys20_slide.pdf) -->
 [[code]](https://github.com/ChristopherLu/milliEgo)
 
