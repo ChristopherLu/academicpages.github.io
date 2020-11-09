@@ -28,6 +28,7 @@ author_profile: true
 	- ACM Transactions on Computing for Healthcare
 	- IEEE Computational Intelligence Magazine
 	- IEEE Transactions on Cybernetics
+	- IEEE Robotics and Automation Letters (RA-L)
 	- Elsevier Neurocomputing
 	- Springer Autonomous Robots
 	- MDPI Sensors
