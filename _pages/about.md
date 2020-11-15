@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- **NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in fall 2020.**   -->
 
-**I am looking for students ([PhD with full scholarship](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) and visitors working on IoT and Robotics to join my group. Drop me an email with your CV if you are interested.** 
+**I am looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) and visitors working on Mobile Robotics or IoT/CPS Security to join my group. Drop me an email with your CV if you are interested.** 
 
 I am an Assistant Professor in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
 Prior to Oxford, I received my MEng degree in 2015 from Nanyang Technological University (NTU), advised by Prof. [Lihua Xie](https://scholar.google.com.sg/citations?user=Fmrv3J8AAAAJ&hl=en). 
@@ -21,12 +21,13 @@ Research
 Broadly, my research interests revolve around the systems and modeling challenges when computers collect and reason about **multi-modal data** to interact with the physical environment. Within this broad notion, my research primarily focuses on the **cyber-physical systems** and **autonomous systems**, increasing their reliability, intelligence and security in the wild. 
 I argue for a **holistic** approach by leveraging tactics from wireless systems, machine learning, mobile robotics, usable security&privacy and design novel methods at the boundaries of these areas. 
 
-More recently, my research thrusts lie in the following topics specifically around two MR systems -  **Mobile Robotics** and **Mixed Reality**:
+More recently, my research thrusts lie in the following topics specifically around  **Mobile Robotics** and **IoT Systems**:
 
 1. Robust SLAM under visual degradation (e.g., darkness, fog, smoke or scarce visual cues).
-2. Safe Human-Robot collaboration via mixed reality (e.g. smart construction sites).
-3. Trusted localization and perception on mobile platforms (e.g., driverless cars).
-4. Physical-aware neural sensor fusion (e.g., sensor calibration without pain).
+<!-- 2. Safe Human-Robot collaboration via mixed reality (e.g. smart construction sites). -->
+2. Safe perception and navigation automotive and autonomous vehicles (e.g., driverless cars).
+3. Privacy-aware and Trust of IoT-connected Cyber Physical Systems (e.g., smart building and city)
+4. Cross-modal and multi-sensor fusion (e.g., sensor data analytics without human intervention).
 
 Recent News
 ======
