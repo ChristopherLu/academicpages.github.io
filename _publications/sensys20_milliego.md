@@ -6,9 +6,9 @@ date: 2020-11-15
 citation: '<b>Chris Xiaoxuan Lu</b>, Muhamad Risqi U. Saputra, Peijun Zhao, Yasin Almalioglu, Pedro P. B. de Gusmao, Changhao Chen, Ke Sun, Niki Trigoni, Andrew Markham. <i>In SenSys 2020.</i>'
 ---
 [[paper]](https://christopherlu.github.io/files/papers/[SenSys2020]milliEgo.pdf)
-<!-- [[talk video]](https://www.youtube.com/watch?v=uPVJu1mCTYc&t=4s) -->
-[[teaser video]](https://youtu.be/I9vjoKGY2ts)
-<!-- [[slide]](https://christopherlu.github.io/files/slides/mobisys20_slide.pdf) -->
+[[talk video]](https://www.youtube.com/watch?v=5LG-PbrUSO8&feature=youtu.be)
+<!-- [[teaser video]](https://youtu.be/I9vjoKGY2ts) -->
+[[slide]](https://christopherlu.github.io/files/slides/sensys20_slide.pdf)
 [[code]](https://github.com/ChristopherLu/milliEgo)
 
 ## Abstract
