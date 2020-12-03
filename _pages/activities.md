@@ -27,6 +27,7 @@ author_profile: true
 	- ACM Transactions on Intelligent Systems and Technology 
 	- ACM Transactions on Computing for Healthcare
 	- IEEE Computational Intelligence Magazine
+	- IEEE Pervasive Computing
 	- IEEE Transactions on Cybernetics
 	- IEEE Robotics and Automation Letters (RA-L)
 	- Elsevier Neurocomputing
@@ -34,6 +35,6 @@ author_profile: true
 	- MDPI Sensors
 
 - Organizing Committee
-	- 2020: [BuildSys](http://buildsys.acm.org/2020/) - Publicity Chair, [WWW](https://www2020.thewebconf.org/) - Session Chair
+	- 2020: [BuildSys](http://buildsys.acm.org/2020/) - Publicity Chair, [WWW](https://www2020.thewebconf.org/) - Session Chair, [SenSys PhD Forum](http://sensys.acm.org/2020/dc/) - Panelist
 	- 2018: [DATA @ SenSys](https://workshopdata.github.io/DATA2018/) - Session Chair
 	
