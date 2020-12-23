@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- **NEW: I will start as an Assistant Professor (Lecturer, in UK parlance) in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab) in fall 2020.**   -->
-
 **I am looking for students ([PhD](https://www.ed.ac.uk/studying/postgraduate/applying/research/phds), [MSc by Research](https://www.ed.ac.uk/studying/postgraduate/applying/research/masters-by-research)) and visitors working on Mobile Robotics or IoT/CPS Security to join my group. Drop me an email with your CV if you are interested.** 
 
 I am an Assistant Professor in the School of Informatics at the [University of Edinburgh](http://web.inf.ed.ac.uk/ipab). Before that I did both my PhD study and post-doctoral research in the Department of Computer Science, University of Oxford, advised by Prof. [Niki Trigoni](https://www.cs.ox.ac.uk/niki.trigoni/) and Prof. [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). I also work closely with Prof. [John A. Stankovic](https://engineering.virginia.edu/faculty/john-stankovic). My PhD study was generously funded by Google DeepMind.
@@ -31,7 +29,7 @@ More recently, my research thrusts lie in the following topics specifically arou
 
 Recent News
 ======
-* October, 2020. One [paper](https://arxiv.org/abs/2006.02266) was accepted to [SenSys 2020](http://sensys.acm.org/2020/). Stay tuned for the code and dataset release!
+* October, 2020. One [paper](https://arxiv.org/abs/2006.02266) was accepted to [SenSys 2020](http://sensys.acm.org/2020/). Code and dataset are available [here](https://github.com/ChristopherLu/milliEgo).
 * April, 2020. Our research work on "Cross-modal ID leakage between device and user biometrics" (WWW'2020) receives tremendous attentions from high-impact public media outlets over the world. Check it out [here](https://christopherlu.github.io/publications/www20_nowhere).
 * April, 2020. Honored to be selected as [Young Researcher](https://www.heidelberg-laureate-forum.org/young-researchers.html) to attend the 8th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/young-researchers.html)! 
 * March, 2020. One [paper](https://christopherlu.github.io/publications/millimap) was accepted to [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/). Code is available [here](https://github.com/ChristopherLu/milliMap).
@@ -39,7 +37,3 @@ Recent News
 * January, 2020. Two papers were accepted to [ICRA 2020](https://www.icra2020.org/). Code is available [here](https://github.com/zhaoymn/mbeats).
 * December, 2019. We release the [code](https://github.com/ChristopherLu/snoopy) and [dataset](https://www.dropbox.com/s/288hotqkig7e3w9/dataset.zip?dl=0) of *Snoopy* attack on smartwatches, published at UbiComp'2018.
 * November, 2019. One [paper](https://christopherlu.github.io/files/papers/[AAAI2020]atloc.pdf) was accepted to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/) (<font color="#FF7F00">ORAL</font>). Code is available [here](https://github.com/BingCS/AtLoc).
-* October, 2019. Invited to serve as TPC for WWW'20.
-* February, 2019. One [paper](https://christopherlu.github.io/publications/selection) was accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
-* January, 2019. One [paper](https://christopherlu.github.io/publications/autotune) was accepted to [WWW 2019](https://www2019.thewebconf.org/).
-* July, 2018. One [paper](https://christopherlu.github.io/publications/emrslam) was accepted to [MobiCom 2018](https://sigmobile.org/mobicom/2018/).
