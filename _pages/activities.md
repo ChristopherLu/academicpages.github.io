@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - Program Committee Member
-	- 2021: [SenSys](https://sensys.acm.org/2021/index.html), [AAAI](https://aaai.org/Conferences/AAAI-21/), [SECON](https://secon2021.ieee-secon.org/)
+	- 2021: [SenSys](https://sensys2021.dei.uc.pt/), [AAAI](https://aaai.org/Conferences/AAAI-21/), [SECON](https://secon2021.ieee-secon.org/)
 	- 2020: [WWW](https://www2020.thewebconf.org/), [BuildSys](http://buildsys.acm.org/2020/), [GPC](https://www.gpc2020.cn/index.html), [Distributed ML @ CoNEXT](https://distributedml.org/), [CPD @ UbiComp](https://ubicomp-cpd.com/), [FAILSAFE @ EWSN](https://wp.doc.ic.ac.uk/failsafe/), [ML4AD @ NeurIPS](https://ml4ad.github.io/)
 	- 2019: [MobiSys - Ph.D Forum ](http://soar.group/mobisys19risingstarsforum/#), [EWSN - Demo/Poster](http://ewsn2019.thss.tsinghua.edu.cn/), [IMC (Shadow)](https://conferences.sigcomm.org/imc/2019), [HAR @ IJCAI](https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition), [DATA @ SenSys](https://workshopdata.github.io/DATA2019/), , [CMIoT @ UbiComp](https://cmliot2019.github.io/), [DFHS @ BuildSys](https://dfhs-buildsys.github.io/dfhs2019/), [CPD @ UbiComp](https://ubicomp-cpd.com/)
 
