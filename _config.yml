@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Xiaoxuan Lu (卢晓轩)"
+title                    : "Chris Lu"
 title_separator          : "-"
-name                     : &name "Chris Xiaoxuan Lu"
+name                     : &name "Chris Lu"
 description              : &description "Assistant Prof. @ University of Edinburgh"
 url                      : https://christopherlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
